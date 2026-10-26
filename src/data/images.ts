@@ -173,6 +173,83 @@
 //   // Drona has no image
 //   drona: { src: null, alt: "Drona Simulator — approved photograph awaited", illustrative: false } as SiteImage,
 // } satisfies Record<string, SiteImage>;
+// export type SiteImage = {
+//   src: string | null;
+//   alt: string;
+//   illustrative: boolean;
+// };
+
+// const illus = (src: string, alt: string): SiteImage => ({ src, alt, illustrative: true });
+
+// export const images = {
+//   // --- HERO IMAGE ---
+//   hero: illus("/hero.jpg", "Trainees at weapon-training simulator stations facing a large screen showing Himalayan terrain"),
+
+//   // --- HOMEPAGE CARDS ---
+//   tetherless: illus("/infantary.png", "Infantry Weapon Training Simulators"),
+//   atgm: illus("/agtm1.png", "ATGM Training Simulators"),
+//   terrain: illus("/vr1.png", "VR and AR Simulation"), 
+//   tank: illus("/battlefeild.png", "Battlefield and Tactical Training"),
+//   lorros: illus("/observation1.png", "Observation and Surveillance Simulators"),
+//   medical: illus("/medical1.png", "Combat Medical Care Training"),
+//   electronicsLab: illus("/defineelec.png", "Defence Electronics and Sensor-Based Systems"),
+  
+//   // FIXED: Corrected spelling to match your file 'systeminteg1.png'
+//   sa: illus("/systeminteg1.png", "System Integration, Maintenance and Upgrades"),
+
+//   // --- PRODUCT PAGES ---
+//   vrop: illus("/observation1.png", "VROP and TIIOE Simulator"),
+  
+//   // --- OTHER PLACEHOLDERS ---
+//   bunker: illus("/battlefeild.png", "Bunker defence simulation"), 
+//   mechInf: illus("/systeminteg1.png", "Mechanized Infantry Simulator"), 
+//   rocket: illus("/agtm1.png", "Rocket Launcher Simulator"), 
+//   sniper: illus("/infantary.png", "Sniper Simulator"),
+//   carrierMortar: illus("/battlefeild.png", "Carrier Mortar Tracker Simulator"),
+//   radio: illus("/defineelec.png", "Radio Telephony Simulator"),
+//   cuas: illus("/observation1.png", "CUAS Simulator"),
+//   replicas: illus("/weapons.png", "Inert training replicas arranged on a display stand"),
+//   mortar: illus("/80mm.png", "81mm Mortar Firing Simulator"),
+  
+//   // Drona has no image
+//   drona: { src: null, alt: "Drona Simulator — approved photograph awaited", illustrative: false } as SiteImage,
+// } satisfies Record<string, SiteImage>;
+// export type SiteImage = {
+//   src: string | null;
+//   alt: string;
+//   illustrative: boolean;
+// };
+
+// const illus = (src: string, alt: string): SiteImage => ({ src, alt, illustrative: true });
+
+// export const images = {
+//   hero: illus("/hero.jpg", "Trainees at weapon-training simulator stations"),
+  
+//   // Homepage Cards & Product Pages
+//   tetherless: illus("/wep.jpg", "Infantry Weapon Training Simulators"),
+//   atgm: illus("/atgm1.jpg", "ATGM Training Simulators"),
+//   vrop: illus("/vrop.png", "VROP and TIIOE Simulator"),
+//   medical: illus("/medical.png", "VR Combat Medical Care Simulator"),
+//   tank: illus("/tankcrew.png", "Tank Troop Tactical Training Simulator"),
+//   mortar: illus("/80mm.png", "81mm Mortar Firing Simulator"),
+//   lorros: illus("/lorrs.png", "LORROS Simulator"),
+//   replicas: illus("/weapons.png", "Inert training replicas arranged on a display stand"),
+//   electronicsLab: illus("/electronics-lab.jpg", "Engineers assembling and testing circuit boards"),
+//   sa: illus("/systeminteg.png", "System Integration"),
+  
+//   // Other placeholders
+//   terrain: illus("/vrop.png", "VR and AR Simulation"),
+//   bunker: illus("/wep.jpg", "Bunker defence simulation"),
+//   mechInf: illus("/tankcrew.png", "Mechanized Infantry Simulator"),
+//   rocket: illus("/atgm1.jpg", "Rocket Launcher Simulator"),
+//   sniper: illus("/wep.jpg", "Sniper Simulator"),
+//   carrierMortar: illus("/tankcrew.png", "Carrier Mortar Tracker Simulator"),
+//   radio: illus("/vrop.png", "Radio Telephony Simulator"),
+//   cuas: illus("/vrop.png", "CUAS Simulator"),
+  
+//   drona: { src: null, alt: "Drona Simulator — approved photograph awaited", illustrative: false } as SiteImage,
+// } satisfies Record<string, SiteImage>;
+
 export type SiteImage = {
   src: string | null;
   alt: string;
@@ -187,14 +264,13 @@ export const images = {
 
   // --- HOMEPAGE CARDS ---
   tetherless: illus("/infantary.png", "Infantry Weapon Training Simulators"),
-  atgm: illus("/agtm1.png", "ATGM Training Simulators"),
+  atgm: illus("/at.png", "ATGM Training Simulators"), // <-- Updated to at.png
   terrain: illus("/vr1.png", "VR and AR Simulation"), 
   tank: illus("/battlefeild.png", "Battlefield and Tactical Training"),
+  
   lorros: illus("/observation1.png", "Observation and Surveillance Simulators"),
   medical: illus("/medical1.png", "Combat Medical Care Training"),
   electronicsLab: illus("/defineelec.png", "Defence Electronics and Sensor-Based Systems"),
-  
-  // FIXED: Corrected spelling to match your file 'systeminteg1.png'
   sa: illus("/systeminteg1.png", "System Integration, Maintenance and Upgrades"),
 
   // --- PRODUCT PAGES ---
@@ -203,13 +279,13 @@ export const images = {
   // --- OTHER PLACEHOLDERS ---
   bunker: illus("/battlefeild.png", "Bunker defence simulation"), 
   mechInf: illus("/systeminteg1.png", "Mechanized Infantry Simulator"), 
-  rocket: illus("/agtm1.png", "Rocket Launcher Simulator"), 
+  rocket: illus("/at.png", "Rocket Launcher Simulator"), 
   sniper: illus("/infantary.png", "Sniper Simulator"),
   carrierMortar: illus("/battlefeild.png", "Carrier Mortar Tracker Simulator"),
   radio: illus("/defineelec.png", "Radio Telephony Simulator"),
   cuas: illus("/observation1.png", "CUAS Simulator"),
   replicas: illus("/weapons.png", "Inert training replicas arranged on a display stand"),
-  mortar: illus("/80mm.png", "81mm Mortar Firing Simulator"),
+  mortar: illus("/81.png", "81mm Mortar Firing Simulator"), // <-- Updated to 81.png
   
   // Drona has no image
   drona: { src: null, alt: "Drona Simulator — approved photograph awaited", illustrative: false } as SiteImage,

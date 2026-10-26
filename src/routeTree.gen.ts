@@ -16,6 +16,9 @@ import { Route as ProjectsRouteImport } from './routes/projects'
 import { Route as SolutionsRouteImport } from './routes/solutions'
 import { Route as ProductsIndexRouteImport } from './routes/products.index'
 import { Route as ProductsSlugRouteImport } from './routes/products.$slug'
+import { Route as ServicesCalibrationRouteImport } from './routes/services/calibration'
+import { Route as ServicesSolarRouteImport } from './routes/services/solar'
+import { Route as ServicesTechnologyRouteImport } from './routes/services/technology'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
@@ -52,6 +55,21 @@ const ProductsSlugRoute = ProductsSlugRouteImport.update({
   path: '/products/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ServicesCalibrationRoute = ServicesCalibrationRouteImport.update({
+  id: '/services/calibration',
+  path: '/services/calibration',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ServicesSolarRoute = ServicesSolarRouteImport.update({
+  id: '/services/solar',
+  path: '/services/solar',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ServicesTechnologyRoute = ServicesTechnologyRouteImport.update({
+  id: '/services/technology',
+  path: '/services/technology',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
@@ -60,6 +78,9 @@ export interface FileRoutesByFullPath {
   '/projects': typeof ProjectsRoute
   '/solutions': typeof SolutionsRoute
   '/products/$slug': typeof ProductsSlugRoute
+  '/services/calibration': typeof ServicesCalibrationRoute
+  '/services/solar': typeof ServicesSolarRoute
+  '/services/technology': typeof ServicesTechnologyRoute
   '/products/': typeof ProductsIndexRoute
 }
 export interface FileRoutesByTo {
@@ -69,6 +90,9 @@ export interface FileRoutesByTo {
   '/projects': typeof ProjectsRoute
   '/solutions': typeof SolutionsRoute
   '/products/$slug': typeof ProductsSlugRoute
+  '/services/calibration': typeof ServicesCalibrationRoute
+  '/services/solar': typeof ServicesSolarRoute
+  '/services/technology': typeof ServicesTechnologyRoute
   '/products': typeof ProductsIndexRoute
 }
 export interface FileRoutesById {
@@ -79,6 +103,9 @@ export interface FileRoutesById {
   '/projects': typeof ProjectsRoute
   '/solutions': typeof SolutionsRoute
   '/products/$slug': typeof ProductsSlugRoute
+  '/services/calibration': typeof ServicesCalibrationRoute
+  '/services/solar': typeof ServicesSolarRoute
+  '/services/technology': typeof ServicesTechnologyRoute
   '/products/': typeof ProductsIndexRoute
 }
 export interface FileRouteTypes {
@@ -90,6 +117,9 @@ export interface FileRouteTypes {
     | '/projects'
     | '/solutions'
     | '/products/$slug'
+    | '/services/calibration'
+    | '/services/solar'
+    | '/services/technology'
     | '/products/'
   fileRoutesByTo: FileRoutesByTo
   to:
@@ -99,6 +129,9 @@ export interface FileRouteTypes {
     | '/projects'
     | '/solutions'
     | '/products/$slug'
+    | '/services/calibration'
+    | '/services/solar'
+    | '/services/technology'
     | '/products'
   id:
     | '__root__'
@@ -108,6 +141,9 @@ export interface FileRouteTypes {
     | '/projects'
     | '/solutions'
     | '/products/$slug'
+    | '/services/calibration'
+    | '/services/solar'
+    | '/services/technology'
     | '/products/'
   fileRoutesById: FileRoutesById
 }
@@ -118,6 +154,9 @@ export interface RootRouteChildren {
   ProjectsRoute: typeof ProjectsRoute
   SolutionsRoute: typeof SolutionsRoute
   ProductsSlugRoute: typeof ProductsSlugRoute
+  ServicesCalibrationRoute: typeof ServicesCalibrationRoute
+  ServicesSolarRoute: typeof ServicesSolarRoute
+  ServicesTechnologyRoute: typeof ServicesTechnologyRoute
   ProductsIndexRoute: typeof ProductsIndexRoute
 }
 
@@ -172,6 +211,27 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ProductsSlugRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/services/calibration': {
+      id: '/services/calibration'
+      path: '/services/calibration'
+      fullPath: '/services/calibration'
+      preLoaderRoute: typeof ServicesCalibrationRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/services/solar': {
+      id: '/services/solar'
+      path: '/services/solar'
+      fullPath: '/services/solar'
+      preLoaderRoute: typeof ServicesSolarRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/services/technology': {
+      id: '/services/technology'
+      path: '/services/technology'
+      fullPath: '/services/technology'
+      preLoaderRoute: typeof ServicesTechnologyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
@@ -182,6 +242,9 @@ const rootRouteChildren: RootRouteChildren = {
   ProjectsRoute: ProjectsRoute,
   SolutionsRoute: SolutionsRoute,
   ProductsSlugRoute: ProductsSlugRoute,
+  ServicesCalibrationRoute: ServicesCalibrationRoute,
+  ServicesSolarRoute: ServicesSolarRoute,
+  ServicesTechnologyRoute: ServicesTechnologyRoute,
   ProductsIndexRoute: ProductsIndexRoute,
 }
 export const routeTree = rootRouteImport
