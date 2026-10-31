@@ -12,9 +12,9 @@
 // export const Route = createFileRoute("/")({
 //   head: () => ({
 //     meta: [
-//       { title: "GVS India — Engineering the Future of Defence Training" },
+//       { title: "GVS India â€” Engineering the Future of Defence Training" },
 //       { name: "description", content: "Green Vision Solutions: defence training simulators, immersive VR/AR training and integrated simulation technology, designed and supported from Hyderabad, India." },
-//       { property: "og:title", content: "GVS India — Engineering the Future of Defence Training" },
+//       { property: "og:title", content: "GVS India â€” Engineering the Future of Defence Training" },
 //       { property: "og:description", content: "Advanced simulation, immersive VR/AR training and integrated technology solutions for defence training." },
 //     ],
 //   }),
@@ -37,7 +37,7 @@
 //         <SiteImage image={images.hero} priority labelPosition="bottom" className="absolute inset-0 -z-10" />
 //         <div className="absolute inset-0 -z-10 bg-hero-overlay" aria-hidden />
 //         <div className="container-x flex min-h-[calc(100svh-72px)] flex-col justify-center py-24">
-//           <p className="eyebrow fade-up">Green Vision Solutions · Hyderabad, India</p>
+//           <p className="eyebrow fade-up">Green Vision Solutions Â· Hyderabad, India</p>
 //           <h1 className="fade-up mt-5 max-w-4xl text-4xl font-bold leading-[1.02] sm:text-6xl lg:text-7xl">
 //             Engineering the Future of Defence Training
 //           </h1>
@@ -62,7 +62,7 @@
 //             <p className="eyebrow">Who we are</p>
 //             <h2 className="mt-3 text-3xl font-bold md:text-5xl">Defence training simulators, built and supported in India</h2>
 //             <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
-//               Green Vision Solutions (GVS) is a Hyderabad-based company engaged in the design, development and manufacture of defence training simulators and simulation technologies — together with system development, integration, maintenance and technical support.
+//               Green Vision Solutions (GVS) is a Hyderabad-based company engaged in the design, development and manufacture of defence training simulators and simulation technologies â€” together with system development, integration, maintenance and technical support.
 //             </p>
 //             <p className="mt-4 leading-relaxed text-muted-foreground">{jointDevelopmentStatement}</p>
 //             <Button asChild variant="link" className="mt-4 px-0 text-base font-semibold">
@@ -174,9 +174,9 @@
 // export const Route = createFileRoute("/")({
 //   head: () => ({
 //     meta: [
-//       { title: "GVS India — Engineering the Future of Defence Training" },
+//       { title: "GVS India â€” Engineering the Future of Defence Training" },
 //       { name: "description", content: "Green Vision Solutions: defence training simulators, immersive VR/AR training and integrated simulation technology, designed and supported from Hyderabad, India." },
-//       { property: "og:title", content: "GVS India — Engineering the Future of Defence Training" },
+//       { property: "og:title", content: "GVS India â€” Engineering the Future of Defence Training" },
 //       { property: "og:description", content: "Advanced simulation, immersive VR/AR training and integrated technology solutions for defence training." },
 //     ],
 //   }),
@@ -199,7 +199,7 @@
 //         <SiteImage image={images.hero} priority labelPosition="bottom" className="absolute inset-0 -z-10" />
 //         <div className="absolute inset-0 -z-10 bg-hero-overlay" aria-hidden />
 //         <div className="container-x flex min-h-[calc(100svh-72px)] flex-col justify-center py-24">
-//           <p className="eyebrow fade-up">Green Vision Solutions · Hyderabad, India</p>
+//           <p className="eyebrow fade-up">Green Vision Solutions Â· Hyderabad, India</p>
 //           <h1 className="fade-up mt-5 max-w-4xl text-4xl font-bold leading-[1.02] sm:text-6xl lg:text-7xl">
 //             Engineering the Future of Defence Training
 //           </h1>
@@ -224,7 +224,7 @@
 //             <p className="eyebrow">Who we are</p>
 //             <h2 className="mt-3 text-3xl font-bold md:text-5xl">Defence training simulators, built and supported in India</h2>
 //             <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
-//               Green Vision Solutions (GVS) is a Hyderabad-based company engaged in the design, development and manufacture of defence training simulators and simulation technologies — together with system development, integration, maintenance and technical support.
+//               Green Vision Solutions (GVS) is a Hyderabad-based company engaged in the design, development and manufacture of defence training simulators and simulation technologies â€” together with system development, integration, maintenance and technical support.
 //             </p>
 //             <p className="mt-4 leading-relaxed text-muted-foreground">{jointDevelopmentStatement}</p>
 //             <Button asChild variant="link" className="mt-4 px-0 text-base font-semibold">
@@ -344,9 +344,9 @@
 // export const Route = createFileRoute("/")({
 //   head: () => ({
 //     meta: [
-//       { title: "GVS India — Engineering the Future of Defence Training" },
+//       { title: "GVS India â€” Engineering the Future of Defence Training" },
 //       { name: "description", content: "Green Vision Solutions: defence training simulators, immersive VR/AR training and integrated simulation technology, designed and supported from Hyderabad, India." },
-//       { property: "og:title", content: "GVS India — Engineering the Future of Defence Training" },
+//       { property: "og:title", content: "GVS India â€” Engineering the Future of Defence Training" },
 //       { property: "og:description", content: "Advanced simulation, immersive VR/AR training and integrated technology solutions for defence training." },
 //     ],
 //   }),
@@ -460,7 +460,7 @@
 //             <p className="eyebrow">Who we are</p>
 //             <h2 className="mt-3 text-3xl font-bold md:text-5xl">Defence training simulators, built and supported in India</h2>
 //             <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
-//               Green Vision Solutions (GVS) is a Hyderabad-based company engaged in the design, development and manufacture of defence training simulators and simulation technologies — together with system development, integration, maintenance and technical support.
+//               Green Vision Solutions (GVS) is a Hyderabad-based company engaged in the design, development and manufacture of defence training simulators and simulation technologies â€” together with system development, integration, maintenance and technical support.
 //             </p>
 //             <p className="mt-4 leading-relaxed text-muted-foreground">{jointDevelopmentStatement}</p>
 //             <Button asChild variant="link" className="mt-4 px-0 text-base font-semibold">
@@ -581,9 +581,9 @@
 // export const Route = createFileRoute("/")({
 //   head: () => ({
 //     meta: [
-//       { title: "GVS India — Engineering the Future of Defence Training" },
+//       { title: "GVS India â€” Engineering the Future of Defence Training" },
 //       { name: "description", content: "Green Vision Solutions: defence training simulators, immersive VR/AR training and integrated simulation technology, designed and supported from Hyderabad, India." },
-//       { property: "og:title", content: "GVS India — Engineering the Future of Defence Training" },
+//       { property: "og:title", content: "GVS India â€” Engineering the Future of Defence Training" },
 //       { property: "og:description", content: "Advanced simulation, immersive VR/AR training and integrated technology solutions for defence training." },
 //     ],
 //   }),
@@ -740,10 +740,10 @@
 //             {/* LEFT SIDE: Video Container */}
 //             <div className="relative w-full h-[450px] lg:h-full rounded-2xl overflow-hidden shadow-xl border border-slate-200 bg-[#0D1D2D]">
 //               <video autoPlay muted loop playsInline className="absolute inset-0 w-full h-full object-cover blur-xl opacity-60 scale-110">
-//                 <source src="/gvs-experience.mp4" type="video/mp4" />
+//                 <source src="/gvs-experience-optimized.mp4" type="video/mp4" />
 //               </video>
 //               <video autoPlay muted loop playsInline poster="/engineering-lab.png" className="absolute inset-0 w-full h-full object-contain z-10">
-//                 <source src="/gvs-experience.mp4" type="video/mp4" />
+//                 <source src="/gvs-experience-optimized.mp4" type="video/mp4" />
 //               </video>
 //             </div>
 
@@ -872,9 +872,9 @@
 // export const Route = createFileRoute("/")({
 //   head: () => ({
 //     meta: [
-//       { title: "GVS India — Engineering the Future of Defence Training" },
+//       { title: "GVS India â€” Engineering the Future of Defence Training" },
 //       { name: "description", content: "Green Vision Solutions: defence training simulators, immersive VR/AR training and integrated simulation technology, designed and supported from Hyderabad, India." },
-//       { property: "og:title", content: "GVS India — Engineering the Future of Defence Training" },
+//       { property: "og:title", content: "GVS India â€” Engineering the Future of Defence Training" },
 //       { property: "og:description", content: "Advanced simulation, immersive VR/AR training and integrated technology solutions for defence training." },
 //     ],
 //   }),
@@ -1045,10 +1045,10 @@
             
 //             <div className="relative w-full h-[450px] lg:h-full rounded-2xl overflow-hidden shadow-xl border border-slate-200 bg-[#0D1D2D]">
 //               <video autoPlay muted loop playsInline className="absolute inset-0 w-full h-full object-cover blur-xl opacity-60 scale-110">
-//                 <source src="/gvs-experience.mp4" type="video/mp4" />
+//                 <source src="/gvs-experience-optimized.mp4" type="video/mp4" />
 //               </video>
 //               <video autoPlay muted loop playsInline poster="/engineering-lab.png" className="absolute inset-0 w-full h-full object-contain z-10">
-//                 <source src="/gvs-experience.mp4" type="video/mp4" />
+//                 <source src="/gvs-experience-optimized.mp4" type="video/mp4" />
 //               </video>
 //             </div>
 
@@ -1097,9 +1097,9 @@ import { FinalCta } from "@/components/site/FinalCta";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "GVS India — Engineering the Future of Defence Training" },
+      { title: "GVS India â€” Engineering the Future of Defence Training" },
       { name: "description", content: "Green Vision Solutions: defence training simulators, immersive VR/AR training and integrated simulation technology, designed and supported from Hyderabad, India." },
-      { property: "og:title", content: "GVS India — Engineering the Future of Defence Training" },
+      { property: "og:title", content: "GVS India â€” Engineering the Future of Defence Training" },
       { property: "og:description", content: "Advanced simulation, immersive VR/AR training and integrated technology solutions for defence training." },
     ],
   }),
@@ -1273,10 +1273,10 @@ function Home() {
             
             <div className="relative w-full h-[450px] lg:h-full rounded-2xl overflow-hidden shadow-xl border border-slate-200 bg-[#0D1D2D]">
               <video autoPlay muted loop playsInline className="absolute inset-0 w-full h-full object-cover blur-xl opacity-60 scale-110">
-                <source src="/gvs-experience.mp4" type="video/mp4" />
+                <source src="/gvs-experience-optimized.mp4" type="video/mp4" />
               </video>
               <video autoPlay muted loop playsInline poster="/engineering-lab.png" className="absolute inset-0 w-full h-full object-contain z-10">
-                <source src="/gvs-experience.mp4" type="video/mp4" />
+                <source src="/gvs-experience-optimized.mp4" type="video/mp4" />
               </video>
             </div>
 

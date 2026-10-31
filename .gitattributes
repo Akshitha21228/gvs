@@ -2,3 +2,5 @@
 
 /public/final-optimized.mp4 -filter -diff -merge text
 /public/about-optimized.mp4 -filter -diff -merge text
+
+/public/gvs-experience-optimized.mp4 -filter -diff -merge

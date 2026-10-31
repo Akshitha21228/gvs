@@ -8,7 +8,7 @@
 // export const Route = createFileRoute("/about")({
 //   head: () => ({
 //     meta: [
-//       { title: "About GVS — Green Vision Solutions, Hyderabad" },
+//       { title: "About GVS â€” Green Vision Solutions, Hyderabad" },
 //       { name: "description", content: "Green Vision Solutions designs, develops, manufactures, integrates and supports defence training simulators and simulation technologies from Hyderabad, India." },
 //       { property: "og:title", content: "About Green Vision Solutions (GVS India)" },
 //       { property: "og:description", content: "Company overview, business activities, design, manufacturing, integration and support capabilities." },
@@ -35,11 +35,11 @@
 //             <p className="eyebrow">Company overview</p>
 //             <h2 className="mt-3 text-3xl font-bold md:text-4xl">Simulation technology for training</h2>
 //             <p className="mt-6 leading-relaxed text-muted-foreground">
-//               GVS works across the full lifecycle of training and simulation systems — from design and development through manufacture and integration to training, maintenance and upgrades.
+//               GVS works across the full lifecycle of training and simulation systems â€” from design and development through manufacture and integration to training, maintenance and upgrades.
 //             </p>
 //             <blockquote className="mt-8 border-l-4 border-olive bg-mist p-6">
 //               <p className="font-medium">{jointDevelopmentStatement}</p>
-//               <footer className="mt-2 text-xs text-muted-foreground">Statement from company records — subject to company verification for publication.</footer>
+//               <footer className="mt-2 text-xs text-muted-foreground">Statement from company records â€” subject to company verification for publication.</footer>
 //             </blockquote>
 //           </div>
 //           <SiteImage image={images.electronicsLab} className="aspect-[4/3] rounded-2xl" />
@@ -76,9 +76,9 @@
 //           <div className="mt-16 rounded-2xl bg-navy p-8 text-on-dark md:p-12">
 //             <h3 className="text-xl font-semibold">Systems designed, developed and delivered</h3>
 //             <ul className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-//               {deliveredSystems.map((s) => <li key={s} className="text-sm text-on-dark-muted">— {s}</li>)}
+//               {deliveredSystems.map((s) => <li key={s} className="text-sm text-on-dark-muted">â€” {s}</li>)}
 //             </ul>
-//             <Link to="/products" className="mt-8 inline-block text-sm font-semibold underline-offset-4 hover:underline">Browse the full product catalogue →</Link>
+//             <Link to="/products" className="mt-8 inline-block text-sm font-semibold underline-offset-4 hover:underline">Browse the full product catalogue â†’</Link>
 //           </div>
 //         </div>
 //       </section>
@@ -164,7 +164,7 @@
 //             {/* Right Column: 3 Paragraphs */}
 //             <div className="space-y-6 text-[17px] leading-[1.7] text-[#526174]">
 //               <p>
-//                 Green Vision Solutions (GVS) is a Hyderabad-based company engaged in the design, development and manufacture of defence training simulators and simulation technologies — together with system development, integration, maintenance and technical support.
+//                 Green Vision Solutions (GVS) is a Hyderabad-based company engaged in the design, development and manufacture of defence training simulators and simulation technologies â€” together with system development, integration, maintenance and technical support.
 //               </p>
 //               <p>
 //                 The company's activities include the design, development and manufacture of Infantry Weapon Training Simulators, Anti-Tank Guided Missile (ATGM) Simulators, mortar and rocket launcher simulators, tactical training simulators, and other associated defence simulation equipment.
@@ -326,11 +326,11 @@
 //             <div className="relative w-full h-[400px] md:h-[500px] lg:h-[600px] rounded-2xl overflow-hidden shadow-xl border border-slate-200 bg-[#0D1D2D]">
 //               {/* Blurred Background Video */}
 //               <video autoPlay muted loop playsInline className="absolute inset-0 w-full h-full object-cover blur-xl opacity-60 scale-110">
-//                 <source src="/about.mp4" type="video/mp4" />
+//                 <source src="/about-optimized.mp4" type="video/mp4" />
 //               </video>
 //               {/* Sharp Foreground Video */}
 //               <video autoPlay muted loop playsInline poster="/engineering-lab.png" className="absolute inset-0 w-full h-full object-contain z-10">
-//                 <source src="/about.mp4" type="video/mp4" />
+//                 <source src="/about-optimized.mp4" type="video/mp4" />
 //                 Your browser does not support the video tag.
 //               </video>
 //             </div>
@@ -338,7 +338,7 @@
 //             {/* Right Column: 3 Paragraphs */}
 //             <div className="space-y-6 text-[17px] leading-[1.7] text-[#526174]">
 //               <p>
-//                 Green Vision Solutions (GVS) is a Hyderabad-based company engaged in the design, development and manufacture of defence training simulators and simulation technologies — together with system development, integration, maintenance and technical support.
+//                 Green Vision Solutions (GVS) is a Hyderabad-based company engaged in the design, development and manufacture of defence training simulators and simulation technologies â€” together with system development, integration, maintenance and technical support.
 //               </p>
 //               <p>
 //                 The company's activities include the design, development and manufacture of Infantry Weapon Training Simulators, Anti-Tank Guided Missile (ATGM) Simulators, mortar and rocket launcher simulators, tactical training simulators, and other associated defence simulation equipment.
@@ -451,7 +451,7 @@ const approachSteps = [
   {
     number: "02",
     title: "Design for the application",
-    desc: "Develop an approach suited to the project’s functional and integration requirements.",
+    desc: "Develop an approach suited to the projectâ€™s functional and integration requirements.",
     icon: <PenTool className="size-5" />
   },
   {
@@ -514,7 +514,7 @@ function About() {
                 poster="/engineering-lab.png" 
                 className="absolute inset-0 w-full h-full object-contain"
               >
-                <source src="/about.mp4" type="video/mp4" />
+                <source src="/about-optimized.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
             </div>
@@ -537,7 +537,7 @@ function About() {
                 <hr className="border-slate-200" />
                 
                 <p>
-                  GVS works across the solution lifecycle—from conceptualization and design through development, integration, testing, deployment and ongoing support. Our approach combines technical problem-solving with a focus on project requirements, usability, maintainability and dependable system performance.
+                  GVS works across the solution lifecycleâ€”from conceptualization and design through development, integration, testing, deployment and ongoing support. Our approach combines technical problem-solving with a focus on project requirements, usability, maintainability and dependable system performance.
                 </p>
                 
                 <hr className="border-slate-200" />
