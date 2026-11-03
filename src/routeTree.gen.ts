@@ -12,7 +12,9 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AboutRouteImport } from './routes/about'
 import { Route as ContactRouteImport } from './routes/contact'
+import { Route as EngineeringCapabilitiesRouteImport } from './routes/engineering-capabilities'
 import { Route as ProjectsRouteImport } from './routes/projects'
+import { Route as ProjectsExperienceRouteImport } from './routes/projects-experience'
 import { Route as SolutionsRouteImport } from './routes/solutions'
 import { Route as ProductsIndexRouteImport } from './routes/products.index'
 import { Route as ProductsSlugRouteImport } from './routes/products.$slug'
@@ -35,9 +37,19 @@ const ContactRoute = ContactRouteImport.update({
   path: '/contact',
   getParentRoute: () => rootRouteImport,
 } as any)
+const EngineeringCapabilitiesRoute = EngineeringCapabilitiesRouteImport.update({
+  id: '/engineering-capabilities',
+  path: '/engineering-capabilities',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ProjectsRoute = ProjectsRouteImport.update({
   id: '/projects',
   path: '/projects',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ProjectsExperienceRoute = ProjectsExperienceRouteImport.update({
+  id: '/projects-experience',
+  path: '/projects-experience',
   getParentRoute: () => rootRouteImport,
 } as any)
 const SolutionsRoute = SolutionsRouteImport.update({
@@ -75,7 +87,9 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/contact': typeof ContactRoute
+  '/engineering-capabilities': typeof EngineeringCapabilitiesRoute
   '/projects': typeof ProjectsRoute
+  '/projects-experience': typeof ProjectsExperienceRoute
   '/solutions': typeof SolutionsRoute
   '/products/$slug': typeof ProductsSlugRoute
   '/services/calibration': typeof ServicesCalibrationRoute
@@ -87,7 +101,9 @@ export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/contact': typeof ContactRoute
+  '/engineering-capabilities': typeof EngineeringCapabilitiesRoute
   '/projects': typeof ProjectsRoute
+  '/projects-experience': typeof ProjectsExperienceRoute
   '/solutions': typeof SolutionsRoute
   '/products/$slug': typeof ProductsSlugRoute
   '/services/calibration': typeof ServicesCalibrationRoute
@@ -100,7 +116,9 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
   '/contact': typeof ContactRoute
+  '/engineering-capabilities': typeof EngineeringCapabilitiesRoute
   '/projects': typeof ProjectsRoute
+  '/projects-experience': typeof ProjectsExperienceRoute
   '/solutions': typeof SolutionsRoute
   '/products/$slug': typeof ProductsSlugRoute
   '/services/calibration': typeof ServicesCalibrationRoute
@@ -114,7 +132,9 @@ export interface FileRouteTypes {
     | '/'
     | '/about'
     | '/contact'
+    | '/engineering-capabilities'
     | '/projects'
+    | '/projects-experience'
     | '/solutions'
     | '/products/$slug'
     | '/services/calibration'
@@ -126,7 +146,9 @@ export interface FileRouteTypes {
     | '/'
     | '/about'
     | '/contact'
+    | '/engineering-capabilities'
     | '/projects'
+    | '/projects-experience'
     | '/solutions'
     | '/products/$slug'
     | '/services/calibration'
@@ -138,7 +160,9 @@ export interface FileRouteTypes {
     | '/'
     | '/about'
     | '/contact'
+    | '/engineering-capabilities'
     | '/projects'
+    | '/projects-experience'
     | '/solutions'
     | '/products/$slug'
     | '/services/calibration'
@@ -151,7 +175,9 @@ export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AboutRoute: typeof AboutRoute
   ContactRoute: typeof ContactRoute
+  EngineeringCapabilitiesRoute: typeof EngineeringCapabilitiesRoute
   ProjectsRoute: typeof ProjectsRoute
+  ProjectsExperienceRoute: typeof ProjectsExperienceRoute
   SolutionsRoute: typeof SolutionsRoute
   ProductsSlugRoute: typeof ProductsSlugRoute
   ServicesCalibrationRoute: typeof ServicesCalibrationRoute
@@ -183,11 +209,25 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ContactRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/engineering-capabilities': {
+      id: '/engineering-capabilities'
+      path: '/engineering-capabilities'
+      fullPath: '/engineering-capabilities'
+      preLoaderRoute: typeof EngineeringCapabilitiesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/projects': {
       id: '/projects'
       path: '/projects'
       fullPath: '/projects'
       preLoaderRoute: typeof ProjectsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/projects-experience': {
+      id: '/projects-experience'
+      path: '/projects-experience'
+      fullPath: '/projects-experience'
+      preLoaderRoute: typeof ProjectsExperienceRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/solutions': {
@@ -239,7 +279,9 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AboutRoute: AboutRoute,
   ContactRoute: ContactRoute,
+  EngineeringCapabilitiesRoute: EngineeringCapabilitiesRoute,
   ProjectsRoute: ProjectsRoute,
+  ProjectsExperienceRoute: ProjectsExperienceRoute,
   SolutionsRoute: SolutionsRoute,
   ProductsSlugRoute: ProductsSlugRoute,
   ServicesCalibrationRoute: ServicesCalibrationRoute,
