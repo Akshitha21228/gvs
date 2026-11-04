@@ -19,8 +19,11 @@ import { Route as SolutionsRouteImport } from './routes/solutions'
 import { Route as ProductsIndexRouteImport } from './routes/products.index'
 import { Route as ProductsSlugRouteImport } from './routes/products.$slug'
 import { Route as ServicesCalibrationRouteImport } from './routes/services/calibration'
+import { Route as ServicesEngineeringAssuranceRouteImport } from './routes/services/engineering-assurance'
+import { Route as ServicesProjectLifecycleSupportRouteImport } from './routes/services/project-lifecycle-support'
 import { Route as ServicesSolarRouteImport } from './routes/services/solar'
 import { Route as ServicesTechnologyRouteImport } from './routes/services/technology'
+import { Route as ServicesServicesIndexRouteImport } from './routes/services/services.index'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
@@ -72,6 +75,18 @@ const ServicesCalibrationRoute = ServicesCalibrationRouteImport.update({
   path: '/services/calibration',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ServicesEngineeringAssuranceRoute =
+  ServicesEngineeringAssuranceRouteImport.update({
+    id: '/services/engineering-assurance',
+    path: '/services/engineering-assurance',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const ServicesProjectLifecycleSupportRoute =
+  ServicesProjectLifecycleSupportRouteImport.update({
+    id: '/services/project-lifecycle-support',
+    path: '/services/project-lifecycle-support',
+    getParentRoute: () => rootRouteImport,
+  } as any)
 const ServicesSolarRoute = ServicesSolarRouteImport.update({
   id: '/services/solar',
   path: '/services/solar',
@@ -80,6 +95,11 @@ const ServicesSolarRoute = ServicesSolarRouteImport.update({
 const ServicesTechnologyRoute = ServicesTechnologyRouteImport.update({
   id: '/services/technology',
   path: '/services/technology',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ServicesServicesIndexRoute = ServicesServicesIndexRouteImport.update({
+  id: '/services/services/',
+  path: '/services/services/',
   getParentRoute: () => rootRouteImport,
 } as any)
 
@@ -93,9 +113,12 @@ export interface FileRoutesByFullPath {
   '/solutions': typeof SolutionsRoute
   '/products/$slug': typeof ProductsSlugRoute
   '/services/calibration': typeof ServicesCalibrationRoute
+  '/services/engineering-assurance': typeof ServicesEngineeringAssuranceRoute
+  '/services/project-lifecycle-support': typeof ServicesProjectLifecycleSupportRoute
   '/services/solar': typeof ServicesSolarRoute
   '/services/technology': typeof ServicesTechnologyRoute
   '/products/': typeof ProductsIndexRoute
+  '/services/services/': typeof ServicesServicesIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
@@ -107,9 +130,12 @@ export interface FileRoutesByTo {
   '/solutions': typeof SolutionsRoute
   '/products/$slug': typeof ProductsSlugRoute
   '/services/calibration': typeof ServicesCalibrationRoute
+  '/services/engineering-assurance': typeof ServicesEngineeringAssuranceRoute
+  '/services/project-lifecycle-support': typeof ServicesProjectLifecycleSupportRoute
   '/services/solar': typeof ServicesSolarRoute
   '/services/technology': typeof ServicesTechnologyRoute
   '/products': typeof ProductsIndexRoute
+  '/services/services': typeof ServicesServicesIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
@@ -122,9 +148,12 @@ export interface FileRoutesById {
   '/solutions': typeof SolutionsRoute
   '/products/$slug': typeof ProductsSlugRoute
   '/services/calibration': typeof ServicesCalibrationRoute
+  '/services/engineering-assurance': typeof ServicesEngineeringAssuranceRoute
+  '/services/project-lifecycle-support': typeof ServicesProjectLifecycleSupportRoute
   '/services/solar': typeof ServicesSolarRoute
   '/services/technology': typeof ServicesTechnologyRoute
   '/products/': typeof ProductsIndexRoute
+  '/services/services/': typeof ServicesServicesIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
@@ -138,9 +167,12 @@ export interface FileRouteTypes {
     | '/solutions'
     | '/products/$slug'
     | '/services/calibration'
+    | '/services/engineering-assurance'
+    | '/services/project-lifecycle-support'
     | '/services/solar'
     | '/services/technology'
     | '/products/'
+    | '/services/services/'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
@@ -152,9 +184,12 @@ export interface FileRouteTypes {
     | '/solutions'
     | '/products/$slug'
     | '/services/calibration'
+    | '/services/engineering-assurance'
+    | '/services/project-lifecycle-support'
     | '/services/solar'
     | '/services/technology'
     | '/products'
+    | '/services/services'
   id:
     | '__root__'
     | '/'
@@ -166,9 +201,12 @@ export interface FileRouteTypes {
     | '/solutions'
     | '/products/$slug'
     | '/services/calibration'
+    | '/services/engineering-assurance'
+    | '/services/project-lifecycle-support'
     | '/services/solar'
     | '/services/technology'
     | '/products/'
+    | '/services/services/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
@@ -181,9 +219,12 @@ export interface RootRouteChildren {
   SolutionsRoute: typeof SolutionsRoute
   ProductsSlugRoute: typeof ProductsSlugRoute
   ServicesCalibrationRoute: typeof ServicesCalibrationRoute
+  ServicesEngineeringAssuranceRoute: typeof ServicesEngineeringAssuranceRoute
+  ServicesProjectLifecycleSupportRoute: typeof ServicesProjectLifecycleSupportRoute
   ServicesSolarRoute: typeof ServicesSolarRoute
   ServicesTechnologyRoute: typeof ServicesTechnologyRoute
   ProductsIndexRoute: typeof ProductsIndexRoute
+  ServicesServicesIndexRoute: typeof ServicesServicesIndexRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -258,6 +299,20 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ServicesCalibrationRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/services/engineering-assurance': {
+      id: '/services/engineering-assurance'
+      path: '/services/engineering-assurance'
+      fullPath: '/services/engineering-assurance'
+      preLoaderRoute: typeof ServicesEngineeringAssuranceRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/services/project-lifecycle-support': {
+      id: '/services/project-lifecycle-support'
+      path: '/services/project-lifecycle-support'
+      fullPath: '/services/project-lifecycle-support'
+      preLoaderRoute: typeof ServicesProjectLifecycleSupportRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/services/solar': {
       id: '/services/solar'
       path: '/services/solar'
@@ -270,6 +325,13 @@ declare module '@tanstack/react-router' {
       path: '/services/technology'
       fullPath: '/services/technology'
       preLoaderRoute: typeof ServicesTechnologyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/services/services/': {
+      id: '/services/services/'
+      path: '/services/services'
+      fullPath: '/services/services/'
+      preLoaderRoute: typeof ServicesServicesIndexRouteImport
       parentRoute: typeof rootRouteImport
     }
   }
@@ -285,9 +347,12 @@ const rootRouteChildren: RootRouteChildren = {
   SolutionsRoute: SolutionsRoute,
   ProductsSlugRoute: ProductsSlugRoute,
   ServicesCalibrationRoute: ServicesCalibrationRoute,
+  ServicesEngineeringAssuranceRoute: ServicesEngineeringAssuranceRoute,
+  ServicesProjectLifecycleSupportRoute: ServicesProjectLifecycleSupportRoute,
   ServicesSolarRoute: ServicesSolarRoute,
   ServicesTechnologyRoute: ServicesTechnologyRoute,
   ProductsIndexRoute: ProductsIndexRoute,
+  ServicesServicesIndexRoute: ServicesServicesIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
