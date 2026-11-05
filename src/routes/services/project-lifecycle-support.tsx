@@ -47,7 +47,7 @@ function ProjectLifecycleSupport() {
       <section 
         className="relative py-24 md:py-32 overflow-hidden bg-[#0E223B]"
         style={{
-          backgroundImage: "url('/heroser.png')",
+          backgroundImage: "image-set(url('/optimized/heroser-293e8a07c997-768.webp') 1x, url('/optimized/heroser-293e8a07c997-1672.webp') 2x)",
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat"

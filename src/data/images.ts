@@ -290,3 +290,8 @@ export const images = {
   // Drona has no image
   drona: { src: null, alt: "Drona Simulator — approved photograph awaited", illustrative: false } as SiteImage,
 } satisfies Record<string, SiteImage>;
+// All responsive asset metadata stays behind the central image mapping.
+import optimizedImages from "./optimized-images.json";
+export function optimizedImage(src: string | undefined | null) {
+  return src ? (optimizedImages as Record<string, { src: string; srcSet: string; width: number; height: number }>)[src] : undefined;
+}

@@ -1,3 +1,5 @@
+import { ViewportVideo } from "@/components/site/ViewportVideo";
+import { ResponsiveImage } from "@/components/site/ResponsiveImage";
 // import { createFileRoute, Link } from "@tanstack/react-router";
 // import { PageHero } from "@/components/site/PageHero";
 // import { SiteImage } from "@/components/site/SiteImage";
@@ -474,8 +476,8 @@ function About() {
       {/* 1. HERO SECTION (Updated with Tagline) */}
       <section className="relative isolate flex min-h-[50vh] lg:min-h-[60vh] items-center overflow-hidden bg-navy">
         <div className="absolute inset-0 -z-10">
-          <img 
-            src="/heroabout.png" 
+          <ResponsiveImage
+            priority sizes="100vw" src="/heroabout.png"
             alt="About GVS Background" 
             className="h-full w-full object-cover object-center"
           />
@@ -506,17 +508,14 @@ function About() {
             
             {/* LEFT COLUMN: Landscape Video Frame */}
             <div className="relative w-full aspect-[16/10] md:aspect-[16/9] lg:aspect-[4/3] rounded-2xl overflow-hidden shadow-sm border border-slate-200 bg-[#0D1D2D]">
-              <video 
-                autoPlay 
+              <ViewportVideo
+
                 muted 
                 loop 
                 playsInline 
                 poster="/engineering-lab.png" 
                 className="absolute inset-0 w-full h-full object-contain"
-              >
-                <source src="/about-optimized.mp4" type="video/mp4" />
-                Your browser does not support the video tag.
-              </video>
+               src="/about-optimized.mp4" />
             </div>
 
             {/* RIGHT COLUMN: Text Content */}

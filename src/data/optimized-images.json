@@ -1,0 +1,488 @@
+{
+  "/3d.png": {
+    "src": "/optimized/3d-837b6b689484-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/3d-837b6b689484-480.webp 480w, /optimized/3d-837b6b689484-768.webp 768w, /optimized/3d-837b6b689484-1280.webp 1280w, /optimized/3d-837b6b689484-1672.webp 1672w"
+  },
+  "/80mm.png": {
+    "src": "/optimized/80mm-546c444d2320-1280.webp",
+    "width": 2400,
+    "height": 1792,
+    "srcSet": "/optimized/80mm-546c444d2320-480.webp 480w, /optimized/80mm-546c444d2320-768.webp 768w, /optimized/80mm-546c444d2320-1280.webp 1280w, /optimized/80mm-546c444d2320-1920.webp 1920w"
+  },
+  "/81 (2).png": {
+    "src": "/optimized/81-(2)-6b3a1fb1abc2-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/81-(2)-6b3a1fb1abc2-480.webp 480w, /optimized/81-(2)-6b3a1fb1abc2-768.webp 768w, /optimized/81-(2)-6b3a1fb1abc2-1280.webp 1280w, /optimized/81-(2)-6b3a1fb1abc2-1920.webp 1920w"
+  },
+  "/81.png": {
+    "src": "/optimized/81-b3cfff3074a9-1280.webp",
+    "width": 1448,
+    "height": 1086,
+    "srcSet": "/optimized/81-b3cfff3074a9-480.webp 480w, /optimized/81-b3cfff3074a9-768.webp 768w, /optimized/81-b3cfff3074a9-1280.webp 1280w, /optimized/81-b3cfff3074a9-1448.webp 1448w"
+  },
+  "/AR.png": {
+    "src": "/optimized/AR-6c438c637b52-1024.webp",
+    "width": 1024,
+    "height": 732,
+    "srcSet": "/optimized/AR-6c438c637b52-480.webp 480w, /optimized/AR-6c438c637b52-768.webp 768w, /optimized/AR-6c438c637b52-1024.webp 1024w"
+  },
+  "/Atgm.webp": {
+    "src": "/optimized/Atgm-66e4de6882e6-1280.webp",
+    "width": 2000,
+    "height": 1333,
+    "srcSet": "/optimized/Atgm-66e4de6882e6-480.webp 480w, /optimized/Atgm-66e4de6882e6-768.webp 768w, /optimized/Atgm-66e4de6882e6-1280.webp 1280w, /optimized/Atgm-66e4de6882e6-1920.webp 1920w"
+  },
+  "/Maintenance-Services.jpg": {
+    "src": "/optimized/Maintenance-Services-35644a52314b-717.webp",
+    "width": 717,
+    "height": 535,
+    "srcSet": "/optimized/Maintenance-Services-35644a52314b-480.webp 480w, /optimized/Maintenance-Services-35644a52314b-717.webp 717w"
+  },
+  "/abouthero.png": {
+    "src": "/optimized/abouthero-dc9282c75f1d-1280.webp",
+    "width": 1983,
+    "height": 793,
+    "srcSet": "/optimized/abouthero-dc9282c75f1d-480.webp 480w, /optimized/abouthero-dc9282c75f1d-768.webp 768w, /optimized/abouthero-dc9282c75f1d-1280.webp 1280w, /optimized/abouthero-dc9282c75f1d-1920.webp 1920w"
+  },
+  "/agtm1.png": {
+    "src": "/optimized/agtm1-07f18cff1d47-1264.webp",
+    "width": 1264,
+    "height": 843,
+    "srcSet": "/optimized/agtm1-07f18cff1d47-480.webp 480w, /optimized/agtm1-07f18cff1d47-768.webp 768w, /optimized/agtm1-07f18cff1d47-1264.webp 1264w"
+  },
+  "/assurance-hero.png": {
+    "src": "/optimized/assurance-hero-c37990b6af71-1280.webp",
+    "width": 1754,
+    "height": 897,
+    "srcSet": "/optimized/assurance-hero-c37990b6af71-480.webp 480w, /optimized/assurance-hero-c37990b6af71-768.webp 768w, /optimized/assurance-hero-c37990b6af71-1280.webp 1280w, /optimized/assurance-hero-c37990b6af71-1754.webp 1754w"
+  },
+  "/at.png": {
+    "src": "/optimized/at-0016ccb3442e-1280.webp",
+    "width": 1448,
+    "height": 1086,
+    "srcSet": "/optimized/at-0016ccb3442e-480.webp 480w, /optimized/at-0016ccb3442e-768.webp 768w, /optimized/at-0016ccb3442e-1280.webp 1280w, /optimized/at-0016ccb3442e-1448.webp 1448w"
+  },
+  "/atgm1.jpg": {
+    "src": "/optimized/atgm1-503e729715cd-1280.webp",
+    "width": 2000,
+    "height": 1289,
+    "srcSet": "/optimized/atgm1-503e729715cd-480.webp 480w, /optimized/atgm1-503e729715cd-768.webp 768w, /optimized/atgm1-503e729715cd-1280.webp 1280w, /optimized/atgm1-503e729715cd-1920.webp 1920w"
+  },
+  "/atgmsimulator.png": {
+    "src": "/optimized/atgmsimulator-8353ace94104-1280.webp",
+    "width": 1671,
+    "height": 941,
+    "srcSet": "/optimized/atgmsimulator-8353ace94104-480.webp 480w, /optimized/atgmsimulator-8353ace94104-768.webp 768w, /optimized/atgmsimulator-8353ace94104-1280.webp 1280w, /optimized/atgmsimulator-8353ace94104-1671.webp 1671w"
+  },
+  "/atmgsim.jpg": {
+    "src": "/optimized/atmgsim-ff69e8d34ecb-1280.webp",
+    "width": 2000,
+    "height": 1333,
+    "srcSet": "/optimized/atmgsim-ff69e8d34ecb-480.webp 480w, /optimized/atmgsim-ff69e8d34ecb-768.webp 768w, /optimized/atmgsim-ff69e8d34ecb-1280.webp 1280w, /optimized/atmgsim-ff69e8d34ecb-1920.webp 1920w"
+  },
+  "/battlefeild.png": {
+    "src": "/optimized/battlefeild-a21585734cd9-1264.webp",
+    "width": 1264,
+    "height": 843,
+    "srcSet": "/optimized/battlefeild-a21585734cd9-480.webp 480w, /optimized/battlefeild-a21585734cd9-768.webp 768w, /optimized/battlefeild-a21585734cd9-1264.webp 1264w"
+  },
+  "/bo.webp": {
+    "src": "/optimized/bo-8ba71f342f45-417.webp",
+    "width": 417,
+    "height": 234,
+    "srcSet": "/optimized/bo-8ba71f342f45-417.webp 417w"
+  },
+  "/bunker.png": {
+    "src": "/optimized/bunker-d8d274f15311-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/bunker-d8d274f15311-480.webp 480w, /optimized/bunker-d8d274f15311-768.webp 768w, /optimized/bunker-d8d274f15311-1280.webp 1280w, /optimized/bunker-d8d274f15311-1672.webp 1672w"
+  },
+  "/calibhero.png": {
+    "src": "/optimized/calibhero-2457eb81b059-1280.webp",
+    "width": 1671,
+    "height": 941,
+    "srcSet": "/optimized/calibhero-2457eb81b059-480.webp 480w, /optimized/calibhero-2457eb81b059-768.webp 768w, /optimized/calibhero-2457eb81b059-1280.webp 1280w, /optimized/calibhero-2457eb81b059-1671.webp 1671w"
+  },
+  "/calibiration.png": {
+    "src": "/optimized/calibiration-2f70d529c07a-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/calibiration-2f70d529c07a-480.webp 480w, /optimized/calibiration-2f70d529c07a-768.webp 768w, /optimized/calibiration-2f70d529c07a-1280.webp 1280w, /optimized/calibiration-2f70d529c07a-1920.webp 1920w"
+  },
+  "/calibser.png": {
+    "src": "/optimized/calibser-2ef7261f460f-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/calibser-2ef7261f460f-480.webp 480w, /optimized/calibser-2ef7261f460f-768.webp 768w, /optimized/calibser-2ef7261f460f-1280.webp 1280w, /optimized/calibser-2ef7261f460f-1920.webp 1920w"
+  },
+  "/carrier.png": {
+    "src": "/optimized/carrier-016cf6822409-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/carrier-016cf6822409-480.webp 480w, /optimized/carrier-016cf6822409-768.webp 768w, /optimized/carrier-016cf6822409-1280.webp 1280w, /optimized/carrier-016cf6822409-1920.webp 1920w"
+  },
+  "/consultancy.jpg": {
+    "src": "/optimized/consultancy-547bb953e3bc-936.webp",
+    "width": 936,
+    "height": 648,
+    "srcSet": "/optimized/consultancy-547bb953e3bc-480.webp 480w, /optimized/consultancy-547bb953e3bc-768.webp 768w, /optimized/consultancy-547bb953e3bc-936.webp 936w"
+  },
+  "/cuas.png": {
+    "src": "/optimized/cuas-6f08798fe0a9-1280.webp",
+    "width": 1539,
+    "height": 1022,
+    "srcSet": "/optimized/cuas-6f08798fe0a9-480.webp 480w, /optimized/cuas-6f08798fe0a9-768.webp 768w, /optimized/cuas-6f08798fe0a9-1280.webp 1280w, /optimized/cuas-6f08798fe0a9-1539.webp 1539w"
+  },
+  "/defence.png": {
+    "src": "/optimized/defence-521b2b2dad46-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/defence-521b2b2dad46-480.webp 480w, /optimized/defence-521b2b2dad46-768.webp 768w, /optimized/defence-521b2b2dad46-1280.webp 1280w, /optimized/defence-521b2b2dad46-1920.webp 1920w"
+  },
+  "/defineelec.png": {
+    "src": "/optimized/defineelec-b3aa034be3d8-1024.webp",
+    "width": 1024,
+    "height": 1024,
+    "srcSet": "/optimized/defineelec-b3aa034be3d8-480.webp 480w, /optimized/defineelec-b3aa034be3d8-768.webp 768w, /optimized/defineelec-b3aa034be3d8-1024.webp 1024w"
+  },
+  "/dr.png": {
+    "src": "/optimized/dr-18246867769e-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/dr-18246867769e-480.webp 480w, /optimized/dr-18246867769e-768.webp 768w, /optimized/dr-18246867769e-1280.webp 1280w, /optimized/dr-18246867769e-1920.webp 1920w"
+  },
+  "/drone.png": {
+    "src": "/optimized/drone-18246867769e-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/drone-18246867769e-480.webp 480w, /optimized/drone-18246867769e-768.webp 768w, /optimized/drone-18246867769e-1280.webp 1280w, /optimized/drone-18246867769e-1920.webp 1920w"
+  },
+  "/electronics-lab.jpg": {
+    "src": "/optimized/electronics-lab-d050e96b76fc-1024.webp",
+    "width": 1024,
+    "height": 1024,
+    "srcSet": "/optimized/electronics-lab-d050e96b76fc-480.webp 480w, /optimized/electronics-lab-d050e96b76fc-768.webp 768w, /optimized/electronics-lab-d050e96b76fc-1024.webp 1024w"
+  },
+  "/emmbeedelec.jpg": {
+    "src": "/optimized/emmbeedelec-e0ed54599052-1280.webp",
+    "width": 1280,
+    "height": 720,
+    "srcSet": "/optimized/emmbeedelec-e0ed54599052-480.webp 480w, /optimized/emmbeedelec-e0ed54599052-768.webp 768w, /optimized/emmbeedelec-e0ed54599052-1280.webp 1280w"
+  },
+  "/enghero.png": {
+    "src": "/optimized/enghero-1791df665639-1280.webp",
+    "width": 2172,
+    "height": 724,
+    "srcSet": "/optimized/enghero-1791df665639-480.webp 480w, /optimized/enghero-1791df665639-768.webp 768w, /optimized/enghero-1791df665639-1280.webp 1280w, /optimized/enghero-1791df665639-1920.webp 1920w"
+  },
+  "/engineering-lab.png": {
+    "src": "/optimized/engineering-lab-c1eb8d50ea66-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/engineering-lab-c1eb8d50ea66-480.webp 480w, /optimized/engineering-lab-c1eb8d50ea66-768.webp 768w, /optimized/engineering-lab-c1eb8d50ea66-1280.webp 1280w, /optimized/engineering-lab-c1eb8d50ea66-1672.webp 1672w"
+  },
+  "/favicon.png": {
+    "src": "/optimized/favicon-5825467688b2-64.webp",
+    "width": 64,
+    "height": 64,
+    "srcSet": "/optimized/favicon-5825467688b2-64.webp 64w"
+  },
+  "/gvs-logo.png": {
+    "src": "/optimized/gvs-logo-1e6f3a053ab3-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/gvs-logo-1e6f3a053ab3-480.webp 480w, /optimized/gvs-logo-1e6f3a053ab3-768.webp 768w, /optimized/gvs-logo-1e6f3a053ab3-1280.webp 1280w, /optimized/gvs-logo-1e6f3a053ab3-1672.webp 1672w"
+  },
+  "/hardware-lab.jpg": {
+    "src": "/optimized/hardware-lab-a118e81b7ba3-1280.webp",
+    "width": 1600,
+    "height": 1200,
+    "srcSet": "/optimized/hardware-lab-a118e81b7ba3-480.webp 480w, /optimized/hardware-lab-a118e81b7ba3-768.webp 768w, /optimized/hardware-lab-a118e81b7ba3-1280.webp 1280w, /optimized/hardware-lab-a118e81b7ba3-1600.webp 1600w"
+  },
+  "/hero.jpg": {
+    "src": "/optimized/hero-5e5c9118eca9-1280.webp",
+    "width": 1920,
+    "height": 1088,
+    "srcSet": "/optimized/hero-5e5c9118eca9-480.webp 480w, /optimized/hero-5e5c9118eca9-768.webp 768w, /optimized/hero-5e5c9118eca9-1280.webp 1280w, /optimized/hero-5e5c9118eca9-1920.webp 1920w"
+  },
+  "/hero.png": {
+    "src": "/optimized/hero-62873b20e04e-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/hero-62873b20e04e-480.webp 480w, /optimized/hero-62873b20e04e-768.webp 768w, /optimized/hero-62873b20e04e-1280.webp 1280w, /optimized/hero-62873b20e04e-1672.webp 1672w"
+  },
+  "/heroabout.png": {
+    "src": "/optimized/heroabout-6cfb759db6cf-1280.webp",
+    "width": 1284,
+    "height": 704,
+    "srcSet": "/optimized/heroabout-6cfb759db6cf-480.webp 480w, /optimized/heroabout-6cfb759db6cf-768.webp 768w, /optimized/heroabout-6cfb759db6cf-1280.webp 1280w, /optimized/heroabout-6cfb759db6cf-1284.webp 1284w"
+  },
+  "/heroser.png": {
+    "src": "/optimized/heroser-293e8a07c997-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/heroser-293e8a07c997-480.webp 480w, /optimized/heroser-293e8a07c997-768.webp 768w, /optimized/heroser-293e8a07c997-1280.webp 1280w, /optimized/heroser-293e8a07c997-1672.webp 1672w"
+  },
+  "/hos.png": {
+    "src": "/optimized/hos-82746d2092b2-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/hos-82746d2092b2-480.webp 480w, /optimized/hos-82746d2092b2-768.webp 768w, /optimized/hos-82746d2092b2-1280.webp 1280w, /optimized/hos-82746d2092b2-1672.webp 1672w"
+  },
+  "/infantary (2).png": {
+    "src": "/optimized/infantary-(2)-5bac6933aa17-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/infantary-(2)-5bac6933aa17-480.webp 480w, /optimized/infantary-(2)-5bac6933aa17-768.webp 768w, /optimized/infantary-(2)-5bac6933aa17-1280.webp 1280w, /optimized/infantary-(2)-5bac6933aa17-1920.webp 1920w"
+  },
+  "/infantary.png": {
+    "src": "/optimized/infantary-80885c18e0b8-928.webp",
+    "width": 928,
+    "height": 1152,
+    "srcSet": "/optimized/infantary-80885c18e0b8-480.webp 480w, /optimized/infantary-80885c18e0b8-768.webp 768w, /optimized/infantary-80885c18e0b8-928.webp 928w"
+  },
+  "/lorros.png": {
+    "src": "/optimized/lorros-a2cdfde38720-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/lorros-a2cdfde38720-480.webp 480w, /optimized/lorros-a2cdfde38720-768.webp 768w, /optimized/lorros-a2cdfde38720-1280.webp 1280w, /optimized/lorros-a2cdfde38720-1920.webp 1920w"
+  },
+  "/lorrs.png": {
+    "src": "/optimized/lorrs-f2f53015e887-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/lorrs-f2f53015e887-480.webp 480w, /optimized/lorrs-f2f53015e887-768.webp 768w, /optimized/lorrs-f2f53015e887-1280.webp 1280w, /optimized/lorrs-f2f53015e887-1920.webp 1920w"
+  },
+  "/lors.png": {
+    "src": "/optimized/lors-8000c6774ef3-1280.webp",
+    "width": 1678,
+    "height": 937,
+    "srcSet": "/optimized/lors-8000c6774ef3-480.webp 480w, /optimized/lors-8000c6774ef3-768.webp 768w, /optimized/lors-8000c6774ef3-1280.webp 1280w, /optimized/lors-8000c6774ef3-1678.webp 1678w"
+  },
+  "/mechanized.png": {
+    "src": "/optimized/mechanized-cbd10c7d1282-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/mechanized-cbd10c7d1282-480.webp 480w, /optimized/mechanized-cbd10c7d1282-768.webp 768w, /optimized/mechanized-cbd10c7d1282-1280.webp 1280w, /optimized/mechanized-cbd10c7d1282-1672.webp 1672w"
+  },
+  "/medical.png": {
+    "src": "/optimized/medical-ca15596c4b12-1280.webp",
+    "width": 1678,
+    "height": 937,
+    "srcSet": "/optimized/medical-ca15596c4b12-480.webp 480w, /optimized/medical-ca15596c4b12-768.webp 768w, /optimized/medical-ca15596c4b12-1280.webp 1280w, /optimized/medical-ca15596c4b12-1678.webp 1678w"
+  },
+  "/medical1.png": {
+    "src": "/optimized/medical1-066b4384723e-1264.webp",
+    "width": 1264,
+    "height": 842,
+    "srcSet": "/optimized/medical1-066b4384723e-480.webp 480w, /optimized/medical1-066b4384723e-768.webp 768w, /optimized/medical1-066b4384723e-1264.webp 1264w"
+  },
+  "/megawalts.jpeg": {
+    "src": "/optimized/megawalts-8b62a6b73d4f-554.webp",
+    "width": 554,
+    "height": 554,
+    "srcSet": "/optimized/megawalts-8b62a6b73d4f-480.webp 480w, /optimized/megawalts-8b62a6b73d4f-554.webp 554w"
+  },
+  "/motor.png": {
+    "src": "/optimized/motor-016cf6822409-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/motor-016cf6822409-480.webp 480w, /optimized/motor-016cf6822409-768.webp 768w, /optimized/motor-016cf6822409-1280.webp 1280w, /optimized/motor-016cf6822409-1920.webp 1920w"
+  },
+  "/observation.png": {
+    "src": "/optimized/observation-9b58c76e33cc-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/observation-9b58c76e33cc-480.webp 480w, /optimized/observation-9b58c76e33cc-768.webp 768w, /optimized/observation-9b58c76e33cc-1280.webp 1280w, /optimized/observation-9b58c76e33cc-1920.webp 1920w"
+  },
+  "/observation1.png": {
+    "src": "/optimized/observation1-cb5dc86a1c95-1216.webp",
+    "width": 1216,
+    "height": 878,
+    "srcSet": "/optimized/observation1-cb5dc86a1c95-480.webp 480w, /optimized/observation1-cb5dc86a1c95-768.webp 768w, /optimized/observation1-cb5dc86a1c95-1216.webp 1216w"
+  },
+  "/powerplant.webp": {
+    "src": "/optimized/powerplant-bb6d4b9c9aba-326.webp",
+    "width": 326,
+    "height": 234,
+    "srcSet": "/optimized/powerplant-bb6d4b9c9aba-326.webp 326w"
+  },
+  "/producthero.png": {
+    "src": "/optimized/producthero-2ea00471f53c-1280.webp",
+    "width": 2172,
+    "height": 724,
+    "srcSet": "/optimized/producthero-2ea00471f53c-480.webp 480w, /optimized/producthero-2ea00471f53c-768.webp 768w, /optimized/producthero-2ea00471f53c-1280.webp 1280w, /optimized/producthero-2ea00471f53c-1920.webp 1920w"
+  },
+  "/project.png": {
+    "src": "/optimized/project-1d0f482001c1-1280.webp",
+    "width": 2172,
+    "height": 724,
+    "srcSet": "/optimized/project-1d0f482001c1-480.webp 480w, /optimized/project-1d0f482001c1-768.webp 768w, /optimized/project-1d0f482001c1-1280.webp 1280w, /optimized/project-1d0f482001c1-1920.webp 1920w"
+  },
+  "/projectexe.jpg": {
+    "src": "/optimized/projectexe-692953477e90-1024.webp",
+    "width": 1024,
+    "height": 768,
+    "srcSet": "/optimized/projectexe-692953477e90-480.webp 480w, /optimized/projectexe-692953477e90-768.webp 768w, /optimized/projectexe-692953477e90-1024.webp 1024w"
+  },
+  "/radio.png": {
+    "src": "/optimized/radio-af8935e60b6d-1280.webp",
+    "width": 1671,
+    "height": 941,
+    "srcSet": "/optimized/radio-af8935e60b6d-480.webp 480w, /optimized/radio-af8935e60b6d-768.webp 768w, /optimized/radio-af8935e60b6d-1280.webp 1280w, /optimized/radio-af8935e60b6d-1671.webp 1671w"
+  },
+  "/replica.png": {
+    "src": "/optimized/replica-ca30393fa5c4-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/replica-ca30393fa5c4-480.webp 480w, /optimized/replica-ca30393fa5c4-768.webp 768w, /optimized/replica-ca30393fa5c4-1280.webp 1280w, /optimized/replica-ca30393fa5c4-1672.webp 1672w"
+  },
+  "/rocketlauncher.jpg": {
+    "src": "/optimized/rocketlauncher-cce358b9235d-600.webp",
+    "width": 600,
+    "height": 500,
+    "srcSet": "/optimized/rocketlauncher-cce358b9235d-480.webp 480w, /optimized/rocketlauncher-cce358b9235d-600.webp 600w"
+  },
+  "/simulation.png": {
+    "src": "/optimized/simulation-26ddf1818016-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/simulation-26ddf1818016-480.webp 480w, /optimized/simulation-26ddf1818016-768.webp 768w, /optimized/simulation-26ddf1818016-1280.webp 1280w, /optimized/simulation-26ddf1818016-1920.webp 1920w"
+  },
+  "/software-lab.jpg": {
+    "src": "/optimized/software-lab-efd0a2d15430-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/software-lab-efd0a2d15430-480.webp 480w, /optimized/software-lab-efd0a2d15430-768.webp 768w, /optimized/software-lab-efd0a2d15430-1280.webp 1280w, /optimized/software-lab-efd0a2d15430-1672.webp 1672w"
+  },
+  "/software.png": {
+    "src": "/optimized/software-ee929093295f-1280.webp",
+    "width": 2528,
+    "height": 1696,
+    "srcSet": "/optimized/software-ee929093295f-480.webp 480w, /optimized/software-ee929093295f-768.webp 768w, /optimized/software-ee929093295f-1280.webp 1280w, /optimized/software-ee929093295f-1920.webp 1920w"
+  },
+  "/solarser.png": {
+    "src": "/optimized/solarser-0127533cbbbb-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/solarser-0127533cbbbb-480.webp 480w, /optimized/solarser-0127533cbbbb-768.webp 768w, /optimized/solarser-0127533cbbbb-1280.webp 1280w, /optimized/solarser-0127533cbbbb-1672.webp 1672w"
+  },
+  "/support-lab.jpg": {
+    "src": "/optimized/support-lab-ecbcaa308af0-1280.webp",
+    "width": 1408,
+    "height": 768,
+    "srcSet": "/optimized/support-lab-ecbcaa308af0-480.webp 480w, /optimized/support-lab-ecbcaa308af0-768.webp 768w, /optimized/support-lab-ecbcaa308af0-1280.webp 1280w, /optimized/support-lab-ecbcaa308af0-1408.webp 1408w"
+  },
+  "/systeminteg.png": {
+    "src": "/optimized/systeminteg-ed45e71b51b7-1280.webp",
+    "width": 1678,
+    "height": 937,
+    "srcSet": "/optimized/systeminteg-ed45e71b51b7-480.webp 480w, /optimized/systeminteg-ed45e71b51b7-768.webp 768w, /optimized/systeminteg-ed45e71b51b7-1280.webp 1280w, /optimized/systeminteg-ed45e71b51b7-1678.webp 1678w"
+  },
+  "/systeminteg1.png": {
+    "src": "/optimized/systeminteg1-e5cbe4fcfc7e-1264.webp",
+    "width": 1264,
+    "height": 843,
+    "srcSet": "/optimized/systeminteg1-e5cbe4fcfc7e-480.webp 480w, /optimized/systeminteg1-e5cbe4fcfc7e-768.webp 768w, /optimized/systeminteg1-e5cbe4fcfc7e-1264.webp 1264w"
+  },
+  "/ta.webp": {
+    "src": "/optimized/ta-1333b877aa78-380.webp",
+    "width": 380,
+    "height": 234,
+    "srcSet": "/optimized/ta-1333b877aa78-380.webp 380w"
+  },
+  "/tan.png": {
+    "src": "/optimized/tan-7ad3a369a012-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/tan-7ad3a369a012-480.webp 480w, /optimized/tan-7ad3a369a012-768.webp 768w, /optimized/tan-7ad3a369a012-1280.webp 1280w, /optimized/tan-7ad3a369a012-1672.webp 1672w"
+  },
+  "/tankcrew.png": {
+    "src": "/optimized/tankcrew-4d0f19fcae9b-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/tankcrew-4d0f19fcae9b-480.webp 480w, /optimized/tankcrew-4d0f19fcae9b-768.webp 768w, /optimized/tankcrew-4d0f19fcae9b-1280.webp 1280w, /optimized/tankcrew-4d0f19fcae9b-1672.webp 1672w"
+  },
+  "/tanktroop.png": {
+    "src": "/optimized/tanktroop-7ad3a369a012-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/tanktroop-7ad3a369a012-480.webp 480w, /optimized/tanktroop-7ad3a369a012-768.webp 768w, /optimized/tanktroop-7ad3a369a012-1280.webp 1280w, /optimized/tanktroop-7ad3a369a012-1672.webp 1672w"
+  },
+  "/techhero.png": {
+    "src": "/optimized/techhero-bdd0e580878a-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/techhero-bdd0e580878a-480.webp 480w, /optimized/techhero-bdd0e580878a-768.webp 768w, /optimized/techhero-bdd0e580878a-1280.webp 1280w, /optimized/techhero-bdd0e580878a-1672.webp 1672w"
+  },
+  "/technologies.png": {
+    "src": "/optimized/technologies-ee275fcdecf4-1280.webp",
+    "width": 2528,
+    "height": 1696,
+    "srcSet": "/optimized/technologies-ee275fcdecf4-480.webp 480w, /optimized/technologies-ee275fcdecf4-768.webp 768w, /optimized/technologies-ee275fcdecf4-1280.webp 1280w, /optimized/technologies-ee275fcdecf4-1920.webp 1920w"
+  },
+  "/testing-lab.jpg": {
+    "src": "/optimized/testing-lab-e0ed54599052-1280.webp",
+    "width": 1280,
+    "height": 720,
+    "srcSet": "/optimized/testing-lab-e0ed54599052-480.webp 480w, /optimized/testing-lab-e0ed54599052-768.webp 768w, /optimized/testing-lab-e0ed54599052-1280.webp 1280w"
+  },
+  "/vr-lab.png": {
+    "src": "/optimized/vr-lab-0221b67b5e8c-1280.webp",
+    "width": 1372,
+    "height": 784,
+    "srcSet": "/optimized/vr-lab-0221b67b5e8c-480.webp 480w, /optimized/vr-lab-0221b67b5e8c-768.webp 768w, /optimized/vr-lab-0221b67b5e8c-1280.webp 1280w, /optimized/vr-lab-0221b67b5e8c-1372.webp 1372w"
+  },
+  "/vr.webp": {
+    "src": "/optimized/vr-da1d97e9616a-1280.webp",
+    "width": 1536,
+    "height": 1024,
+    "srcSet": "/optimized/vr-da1d97e9616a-480.webp 480w, /optimized/vr-da1d97e9616a-768.webp 768w, /optimized/vr-da1d97e9616a-1280.webp 1280w, /optimized/vr-da1d97e9616a-1536.webp 1536w"
+  },
+  "/vr1.png": {
+    "src": "/optimized/vr1-14af56121beb-1264.webp",
+    "width": 1264,
+    "height": 841,
+    "srcSet": "/optimized/vr1-14af56121beb-480.webp 480w, /optimized/vr1-14af56121beb-768.webp 768w, /optimized/vr1-14af56121beb-1264.webp 1264w"
+  },
+  "/vrhome.png": {
+    "src": "/optimized/vrhome-2fa235885a49-1280.webp",
+    "width": 2744,
+    "height": 1536,
+    "srcSet": "/optimized/vrhome-2fa235885a49-480.webp 480w, /optimized/vrhome-2fa235885a49-768.webp 768w, /optimized/vrhome-2fa235885a49-1280.webp 1280w, /optimized/vrhome-2fa235885a49-1920.webp 1920w"
+  },
+  "/vrop.png": {
+    "src": "/optimized/vrop-4f2bf4464770-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/vrop-4f2bf4464770-480.webp 480w, /optimized/vrop-4f2bf4464770-768.webp 768w, /optimized/vrop-4f2bf4464770-1280.webp 1280w, /optimized/vrop-4f2bf4464770-1920.webp 1920w"
+  },
+  "/vrsnipperweapon.png": {
+    "src": "/optimized/vrsnipperweapon-ac4766a49766-1280.webp",
+    "width": 1672,
+    "height": 941,
+    "srcSet": "/optimized/vrsnipperweapon-ac4766a49766-480.webp 480w, /optimized/vrsnipperweapon-ac4766a49766-768.webp 768w, /optimized/vrsnipperweapon-ac4766a49766-1280.webp 1280w, /optimized/vrsnipperweapon-ac4766a49766-1672.webp 1672w"
+  },
+  "/vrweapon.png": {
+    "src": "/optimized/vrweapon-7122772bb00f-1280.webp",
+    "width": 2752,
+    "height": 1536,
+    "srcSet": "/optimized/vrweapon-7122772bb00f-480.webp 480w, /optimized/vrweapon-7122772bb00f-768.webp 768w, /optimized/vrweapon-7122772bb00f-1280.webp 1280w, /optimized/vrweapon-7122772bb00f-1920.webp 1920w"
+  },
+  "/weapons.png": {
+    "src": "/optimized/weapons-d56ea39aabd7-1280.webp",
+    "width": 1678,
+    "height": 937,
+    "srcSet": "/optimized/weapons-d56ea39aabd7-480.webp 480w, /optimized/weapons-d56ea39aabd7-768.webp 768w, /optimized/weapons-d56ea39aabd7-1280.webp 1280w, /optimized/weapons-d56ea39aabd7-1678.webp 1678w"
+  },
+  "/wep.jpg": {
+    "src": "/optimized/wep-9d96d36c5d25-650.webp",
+    "width": 650,
+    "height": 336,
+    "srcSet": "/optimized/wep-9d96d36c5d25-480.webp 480w, /optimized/wep-9d96d36c5d25-650.webp 650w"
+  }
+}

@@ -1,3 +1,4 @@
+import { ResponsiveImage } from "@/components/site/ResponsiveImage";
 // import { useState } from "react";
 // import { createFileRoute } from "@tanstack/react-router";
 // import { BatteryCharging, Sun, Zap, CheckCircle2, Building2, Wrench, ShieldCheck } from "lucide-react";
@@ -191,8 +192,8 @@ function SolarServices() {
       {/* 1. HERO SECTION WITH solarser.png */}
       <section className="relative isolate flex min-h-[50vh] lg:min-h-[60vh] items-center overflow-hidden bg-navy">
         <div className="absolute inset-0 -z-10">
-          <img 
-            src="/solarser.png" 
+          <ResponsiveImage
+            priority sizes="100vw" src="/solarser.png"
             alt="Solar Services Hero" 
             className="h-full w-full object-cover object-center"
           />
@@ -267,7 +268,7 @@ function SolarServices() {
 
               {/* Balanced Large Image */}
               <div className="w-full relative rounded-2xl overflow-hidden shadow-md border border-border h-[350px] lg:h-[480px]">
-                <img 
+                <ResponsiveImage
                   src={activeContent.image.src} 
                   alt={activeContent.image.alt} 
                   className="w-full h-full object-cover object-top"

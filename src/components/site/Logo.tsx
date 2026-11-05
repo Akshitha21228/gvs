@@ -1,3 +1,4 @@
+import { ResponsiveImage } from "@/components/site/ResponsiveImage";
 // import { company } from "@/data/company";
 // import { cn } from "@/lib/utils";
 
@@ -15,8 +16,8 @@ import { cn } from "@/lib/utils";
 export function Logo({ className }: { className?: string }) {
   return (
     <span className={cn("inline-flex items-center", className)}>
-      <img 
-        src={company.logo} 
+      <ResponsiveImage
+        loading="eager" sizes="160px" src={company.logo}
         alt="Green Vision Solutions (GVS) logo" 
         className="h-16 w-auto object-contain scale-125" 
       />

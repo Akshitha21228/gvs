@@ -1,3 +1,4 @@
+import { ResponsiveImage } from "@/components/site/ResponsiveImage";
 // import { useState } from "react";
 // import { createFileRoute } from "@tanstack/react-router";
 // import { Code, Cpu, Lightbulb, Wrench, Monitor, CheckCircle2, ShieldCheck, Settings, Layers, Server, PenTool } from "lucide-react";
@@ -457,8 +458,8 @@ function TechnologyServices() {
       {/* 1. HERO SECTION WITH techhero.png */}
       <section className="relative isolate flex min-h-[50vh] lg:min-h-[60vh] items-center overflow-hidden bg-navy">
         <div className="absolute inset-0 -z-10">
-          <img 
-            src="/techhero.png" 
+          <ResponsiveImage
+            priority sizes="100vw" src="/techhero.png"
             alt="Technology Services Hero" 
             className="h-full w-full object-cover object-center"
           />
@@ -533,7 +534,7 @@ function TechnologyServices() {
 
               {/* Balanced Large Image */}
               <div className="w-full relative rounded-2xl overflow-hidden shadow-md border border-border h-[350px] lg:h-[480px]">
-                <img 
+                <ResponsiveImage
                   src={activeContent.image.src} 
                   alt={activeContent.image.alt} 
                   className="w-full h-full object-cover object-top"

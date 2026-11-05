@@ -1,0 +1,1938 @@
+[
+  {
+    "original": "3d.png",
+    "originalBytes": 2435599,
+    "variants": [
+      {
+        "src": "/optimized/3d-837b6b689484-480.webp",
+        "width": 480,
+        "bytes": 42392
+      },
+      {
+        "src": "/optimized/3d-837b6b689484-768.webp",
+        "width": 768,
+        "bytes": 94842
+      },
+      {
+        "src": "/optimized/3d-837b6b689484-1280.webp",
+        "width": 1280,
+        "bytes": 209302
+      },
+      {
+        "src": "/optimized/3d-837b6b689484-1672.webp",
+        "width": 1672,
+        "bytes": 307486
+      }
+    ]
+  },
+  {
+    "original": "80mm.png",
+    "originalBytes": 7297884,
+    "variants": [
+      {
+        "src": "/optimized/80mm-546c444d2320-480.webp",
+        "width": 480,
+        "bytes": 22508
+      },
+      {
+        "src": "/optimized/80mm-546c444d2320-768.webp",
+        "width": 768,
+        "bytes": 44868
+      },
+      {
+        "src": "/optimized/80mm-546c444d2320-1280.webp",
+        "width": 1280,
+        "bytes": 94048
+      },
+      {
+        "src": "/optimized/80mm-546c444d2320-1920.webp",
+        "width": 1920,
+        "bytes": 174924
+      }
+    ]
+  },
+  {
+    "original": "81 (2).png",
+    "originalBytes": 7538289,
+    "variants": [
+      {
+        "src": "/optimized/81-(2)-6b3a1fb1abc2-480.webp",
+        "width": 480,
+        "bytes": 22098
+      },
+      {
+        "src": "/optimized/81-(2)-6b3a1fb1abc2-768.webp",
+        "width": 768,
+        "bytes": 47214
+      },
+      {
+        "src": "/optimized/81-(2)-6b3a1fb1abc2-1280.webp",
+        "width": 1280,
+        "bytes": 105078
+      },
+      {
+        "src": "/optimized/81-(2)-6b3a1fb1abc2-1920.webp",
+        "width": 1920,
+        "bytes": 191138
+      }
+    ]
+  },
+  {
+    "original": "81.png",
+    "originalBytes": 2793449,
+    "variants": [
+      {
+        "src": "/optimized/81-b3cfff3074a9-480.webp",
+        "width": 480,
+        "bytes": 61288
+      },
+      {
+        "src": "/optimized/81-b3cfff3074a9-768.webp",
+        "width": 768,
+        "bytes": 135118
+      },
+      {
+        "src": "/optimized/81-b3cfff3074a9-1280.webp",
+        "width": 1280,
+        "bytes": 279934
+      },
+      {
+        "src": "/optimized/81-b3cfff3074a9-1448.webp",
+        "width": 1448,
+        "bytes": 328636
+      }
+    ]
+  },
+  {
+    "original": "AR.png",
+    "originalBytes": 1139530,
+    "variants": [
+      {
+        "src": "/optimized/AR-6c438c637b52-480.webp",
+        "width": 480,
+        "bytes": 31042
+      },
+      {
+        "src": "/optimized/AR-6c438c637b52-768.webp",
+        "width": 768,
+        "bytes": 58318
+      },
+      {
+        "src": "/optimized/AR-6c438c637b52-1024.webp",
+        "width": 1024,
+        "bytes": 82374
+      }
+    ]
+  },
+  {
+    "original": "Atgm.webp",
+    "originalBytes": 55176,
+    "variants": [
+      {
+        "src": "/optimized/Atgm-66e4de6882e6-480.webp",
+        "width": 480,
+        "bytes": 15904
+      },
+      {
+        "src": "/optimized/Atgm-66e4de6882e6-768.webp",
+        "width": 768,
+        "bytes": 26274
+      },
+      {
+        "src": "/optimized/Atgm-66e4de6882e6-1280.webp",
+        "width": 1280,
+        "bytes": 46554
+      },
+      {
+        "src": "/optimized/Atgm-66e4de6882e6-1920.webp",
+        "width": 1920,
+        "bytes": 73158
+      }
+    ]
+  },
+  {
+    "original": "Maintenance-Services.jpg",
+    "originalBytes": 43618,
+    "variants": [
+      {
+        "src": "/optimized/Maintenance-Services-35644a52314b-480.webp",
+        "width": 480,
+        "bytes": 18218
+      },
+      {
+        "src": "/optimized/Maintenance-Services-35644a52314b-717.webp",
+        "width": 717,
+        "bytes": 32056
+      }
+    ]
+  },
+  {
+    "original": "abouthero.png",
+    "originalBytes": 1969650,
+    "variants": [
+      {
+        "src": "/optimized/abouthero-dc9282c75f1d-480.webp",
+        "width": 480,
+        "bytes": 17678
+      },
+      {
+        "src": "/optimized/abouthero-dc9282c75f1d-768.webp",
+        "width": 768,
+        "bytes": 36590
+      },
+      {
+        "src": "/optimized/abouthero-dc9282c75f1d-1280.webp",
+        "width": 1280,
+        "bytes": 75410
+      },
+      {
+        "src": "/optimized/abouthero-dc9282c75f1d-1920.webp",
+        "width": 1920,
+        "bytes": 129426
+      }
+    ]
+  },
+  {
+    "original": "agtm1.png",
+    "originalBytes": 1936737,
+    "variants": [
+      {
+        "src": "/optimized/agtm1-07f18cff1d47-480.webp",
+        "width": 480,
+        "bytes": 22776
+      },
+      {
+        "src": "/optimized/agtm1-07f18cff1d47-768.webp",
+        "width": 768,
+        "bytes": 45516
+      },
+      {
+        "src": "/optimized/agtm1-07f18cff1d47-1264.webp",
+        "width": 1264,
+        "bytes": 92144
+      }
+    ]
+  },
+  {
+    "original": "assurance-hero.png",
+    "originalBytes": 1655636,
+    "variants": [
+      {
+        "src": "/optimized/assurance-hero-c37990b6af71-480.webp",
+        "width": 480,
+        "bytes": 14396
+      },
+      {
+        "src": "/optimized/assurance-hero-c37990b6af71-768.webp",
+        "width": 768,
+        "bytes": 28450
+      },
+      {
+        "src": "/optimized/assurance-hero-c37990b6af71-1280.webp",
+        "width": 1280,
+        "bytes": 57064
+      },
+      {
+        "src": "/optimized/assurance-hero-c37990b6af71-1754.webp",
+        "width": 1754,
+        "bytes": 85968
+      }
+    ]
+  },
+  {
+    "original": "at.png",
+    "originalBytes": 2518423,
+    "variants": [
+      {
+        "src": "/optimized/at-0016ccb3442e-480.webp",
+        "width": 480,
+        "bytes": 51304
+      },
+      {
+        "src": "/optimized/at-0016ccb3442e-768.webp",
+        "width": 768,
+        "bytes": 110658
+      },
+      {
+        "src": "/optimized/at-0016ccb3442e-1280.webp",
+        "width": 1280,
+        "bytes": 219900
+      },
+      {
+        "src": "/optimized/at-0016ccb3442e-1448.webp",
+        "width": 1448,
+        "bytes": 258106
+      }
+    ]
+  },
+  {
+    "original": "atgm1.jpg",
+    "originalBytes": 137187,
+    "variants": [
+      {
+        "src": "/optimized/atgm1-503e729715cd-480.webp",
+        "width": 480,
+        "bytes": 20694
+      },
+      {
+        "src": "/optimized/atgm1-503e729715cd-768.webp",
+        "width": 768,
+        "bytes": 35064
+      },
+      {
+        "src": "/optimized/atgm1-503e729715cd-1280.webp",
+        "width": 1280,
+        "bytes": 60930
+      },
+      {
+        "src": "/optimized/atgm1-503e729715cd-1920.webp",
+        "width": 1920,
+        "bytes": 98376
+      }
+    ]
+  },
+  {
+    "original": "atgmsimulator.png",
+    "originalBytes": 2105451,
+    "variants": [
+      {
+        "src": "/optimized/atgmsimulator-8353ace94104-480.webp",
+        "width": 480,
+        "bytes": 35844
+      },
+      {
+        "src": "/optimized/atgmsimulator-8353ace94104-768.webp",
+        "width": 768,
+        "bytes": 74096
+      },
+      {
+        "src": "/optimized/atgmsimulator-8353ace94104-1280.webp",
+        "width": 1280,
+        "bytes": 150766
+      },
+      {
+        "src": "/optimized/atgmsimulator-8353ace94104-1671.webp",
+        "width": 1671,
+        "bytes": 209792
+      }
+    ]
+  },
+  {
+    "original": "atmgsim.jpg",
+    "originalBytes": 142139,
+    "variants": [
+      {
+        "src": "/optimized/atmgsim-ff69e8d34ecb-480.webp",
+        "width": 480,
+        "bytes": 17880
+      },
+      {
+        "src": "/optimized/atmgsim-ff69e8d34ecb-768.webp",
+        "width": 768,
+        "bytes": 35426
+      },
+      {
+        "src": "/optimized/atmgsim-ff69e8d34ecb-1280.webp",
+        "width": 1280,
+        "bytes": 70118
+      },
+      {
+        "src": "/optimized/atmgsim-ff69e8d34ecb-1920.webp",
+        "width": 1920,
+        "bytes": 116290
+      }
+    ]
+  },
+  {
+    "original": "battlefeild.png",
+    "originalBytes": 1966961,
+    "variants": [
+      {
+        "src": "/optimized/battlefeild-a21585734cd9-480.webp",
+        "width": 480,
+        "bytes": 18354
+      },
+      {
+        "src": "/optimized/battlefeild-a21585734cd9-768.webp",
+        "width": 768,
+        "bytes": 36472
+      },
+      {
+        "src": "/optimized/battlefeild-a21585734cd9-1264.webp",
+        "width": 1264,
+        "bytes": 77154
+      }
+    ]
+  },
+  {
+    "original": "bo.webp",
+    "originalBytes": 19448,
+    "variants": [
+      {
+        "src": "/optimized/bo-8ba71f342f45-417.webp",
+        "width": 417,
+        "bytes": 22410
+      }
+    ]
+  },
+  {
+    "original": "bunker.png",
+    "originalBytes": 2265553,
+    "variants": [
+      {
+        "src": "/optimized/bunker-d8d274f15311-480.webp",
+        "width": 480,
+        "bytes": 33090
+      },
+      {
+        "src": "/optimized/bunker-d8d274f15311-768.webp",
+        "width": 768,
+        "bytes": 71792
+      },
+      {
+        "src": "/optimized/bunker-d8d274f15311-1280.webp",
+        "width": 1280,
+        "bytes": 156694
+      },
+      {
+        "src": "/optimized/bunker-d8d274f15311-1672.webp",
+        "width": 1672,
+        "bytes": 226036
+      }
+    ]
+  },
+  {
+    "original": "calibhero.png",
+    "originalBytes": 1752570,
+    "variants": [
+      {
+        "src": "/optimized/calibhero-2457eb81b059-480.webp",
+        "width": 480,
+        "bytes": 23684
+      },
+      {
+        "src": "/optimized/calibhero-2457eb81b059-768.webp",
+        "width": 768,
+        "bytes": 44838
+      },
+      {
+        "src": "/optimized/calibhero-2457eb81b059-1280.webp",
+        "width": 1280,
+        "bytes": 85164
+      },
+      {
+        "src": "/optimized/calibhero-2457eb81b059-1671.webp",
+        "width": 1671,
+        "bytes": 115772
+      }
+    ]
+  },
+  {
+    "original": "calibiration.png",
+    "originalBytes": 8721582,
+    "variants": [
+      {
+        "src": "/optimized/calibiration-2f70d529c07a-480.webp",
+        "width": 480,
+        "bytes": 37796
+      },
+      {
+        "src": "/optimized/calibiration-2f70d529c07a-768.webp",
+        "width": 768,
+        "bytes": 73984
+      },
+      {
+        "src": "/optimized/calibiration-2f70d529c07a-1280.webp",
+        "width": 1280,
+        "bytes": 154696
+      },
+      {
+        "src": "/optimized/calibiration-2f70d529c07a-1920.webp",
+        "width": 1920,
+        "bytes": 286840
+      }
+    ]
+  },
+  {
+    "original": "calibser.png",
+    "originalBytes": 7493274,
+    "variants": [
+      {
+        "src": "/optimized/calibser-2ef7261f460f-480.webp",
+        "width": 480,
+        "bytes": 37026
+      },
+      {
+        "src": "/optimized/calibser-2ef7261f460f-768.webp",
+        "width": 768,
+        "bytes": 73132
+      },
+      {
+        "src": "/optimized/calibser-2ef7261f460f-1280.webp",
+        "width": 1280,
+        "bytes": 150998
+      },
+      {
+        "src": "/optimized/calibser-2ef7261f460f-1920.webp",
+        "width": 1920,
+        "bytes": 255668
+      }
+    ]
+  },
+  {
+    "original": "carrier.png",
+    "originalBytes": 7394485,
+    "variants": [
+      {
+        "src": "/optimized/carrier-016cf6822409-480.webp",
+        "width": 480,
+        "bytes": 18434
+      },
+      {
+        "src": "/optimized/carrier-016cf6822409-768.webp",
+        "width": 768,
+        "bytes": 37112
+      },
+      {
+        "src": "/optimized/carrier-016cf6822409-1280.webp",
+        "width": 1280,
+        "bytes": 80564
+      },
+      {
+        "src": "/optimized/carrier-016cf6822409-1920.webp",
+        "width": 1920,
+        "bytes": 152194
+      }
+    ]
+  },
+  {
+    "original": "consultancy.jpg",
+    "originalBytes": 85352,
+    "variants": [
+      {
+        "src": "/optimized/consultancy-547bb953e3bc-480.webp",
+        "width": 480,
+        "bytes": 18318
+      },
+      {
+        "src": "/optimized/consultancy-547bb953e3bc-768.webp",
+        "width": 768,
+        "bytes": 34152
+      },
+      {
+        "src": "/optimized/consultancy-547bb953e3bc-936.webp",
+        "width": 936,
+        "bytes": 45192
+      }
+    ]
+  },
+  {
+    "original": "cuas.png",
+    "originalBytes": 1836218,
+    "variants": [
+      {
+        "src": "/optimized/cuas-6f08798fe0a9-480.webp",
+        "width": 480,
+        "bytes": 21420
+      },
+      {
+        "src": "/optimized/cuas-6f08798fe0a9-768.webp",
+        "width": 768,
+        "bytes": 43464
+      },
+      {
+        "src": "/optimized/cuas-6f08798fe0a9-1280.webp",
+        "width": 1280,
+        "bytes": 91432
+      },
+      {
+        "src": "/optimized/cuas-6f08798fe0a9-1539.webp",
+        "width": 1539,
+        "bytes": 117486
+      }
+    ]
+  },
+  {
+    "original": "defence.png",
+    "originalBytes": 7701881,
+    "variants": [
+      {
+        "src": "/optimized/defence-521b2b2dad46-480.webp",
+        "width": 480,
+        "bytes": 27468
+      },
+      {
+        "src": "/optimized/defence-521b2b2dad46-768.webp",
+        "width": 768,
+        "bytes": 55682
+      },
+      {
+        "src": "/optimized/defence-521b2b2dad46-1280.webp",
+        "width": 1280,
+        "bytes": 120564
+      },
+      {
+        "src": "/optimized/defence-521b2b2dad46-1920.webp",
+        "width": 1920,
+        "bytes": 210974
+      }
+    ]
+  },
+  {
+    "original": "defineelec.png",
+    "originalBytes": 1920798,
+    "variants": [
+      {
+        "src": "/optimized/defineelec-b3aa034be3d8-480.webp",
+        "width": 480,
+        "bytes": 34512
+      },
+      {
+        "src": "/optimized/defineelec-b3aa034be3d8-768.webp",
+        "width": 768,
+        "bytes": 66246
+      },
+      {
+        "src": "/optimized/defineelec-b3aa034be3d8-1024.webp",
+        "width": 1024,
+        "bytes": 94530
+      }
+    ]
+  },
+  {
+    "original": "dr.png",
+    "originalBytes": 8186171,
+    "variants": [
+      {
+        "src": "/optimized/dr-18246867769e-480.webp",
+        "width": 480,
+        "bytes": 25018
+      },
+      {
+        "src": "/optimized/dr-18246867769e-768.webp",
+        "width": 768,
+        "bytes": 52298
+      },
+      {
+        "src": "/optimized/dr-18246867769e-1280.webp",
+        "width": 1280,
+        "bytes": 118748
+      },
+      {
+        "src": "/optimized/dr-18246867769e-1920.webp",
+        "width": 1920,
+        "bytes": 233528
+      }
+    ]
+  },
+  {
+    "original": "drone.png",
+    "originalBytes": 8186171,
+    "variants": [
+      {
+        "src": "/optimized/drone-18246867769e-480.webp",
+        "width": 480,
+        "bytes": 25018
+      },
+      {
+        "src": "/optimized/drone-18246867769e-768.webp",
+        "width": 768,
+        "bytes": 52298
+      },
+      {
+        "src": "/optimized/drone-18246867769e-1280.webp",
+        "width": 1280,
+        "bytes": 118748
+      },
+      {
+        "src": "/optimized/drone-18246867769e-1920.webp",
+        "width": 1920,
+        "bytes": 233528
+      }
+    ]
+  },
+  {
+    "original": "electronics-lab.jpg",
+    "originalBytes": 147382,
+    "variants": [
+      {
+        "src": "/optimized/electronics-lab-d050e96b76fc-480.webp",
+        "width": 480,
+        "bytes": 46628
+      },
+      {
+        "src": "/optimized/electronics-lab-d050e96b76fc-768.webp",
+        "width": 768,
+        "bytes": 91642
+      },
+      {
+        "src": "/optimized/electronics-lab-d050e96b76fc-1024.webp",
+        "width": 1024,
+        "bytes": 140170
+      }
+    ]
+  },
+  {
+    "original": "emmbeedelec.jpg",
+    "originalBytes": 130309,
+    "variants": [
+      {
+        "src": "/optimized/emmbeedelec-e0ed54599052-480.webp",
+        "width": 480,
+        "bytes": 28150
+      },
+      {
+        "src": "/optimized/emmbeedelec-e0ed54599052-768.webp",
+        "width": 768,
+        "bytes": 55306
+      },
+      {
+        "src": "/optimized/emmbeedelec-e0ed54599052-1280.webp",
+        "width": 1280,
+        "bytes": 122450
+      }
+    ]
+  },
+  {
+    "original": "enghero.png",
+    "originalBytes": 1691462,
+    "variants": [
+      {
+        "src": "/optimized/enghero-1791df665639-480.webp",
+        "width": 480,
+        "bytes": 9784
+      },
+      {
+        "src": "/optimized/enghero-1791df665639-768.webp",
+        "width": 768,
+        "bytes": 20674
+      },
+      {
+        "src": "/optimized/enghero-1791df665639-1280.webp",
+        "width": 1280,
+        "bytes": 47780
+      },
+      {
+        "src": "/optimized/enghero-1791df665639-1920.webp",
+        "width": 1920,
+        "bytes": 88622
+      }
+    ]
+  },
+  {
+    "original": "engineering-lab.png",
+    "originalBytes": 2446849,
+    "variants": [
+      {
+        "src": "/optimized/engineering-lab-c1eb8d50ea66-480.webp",
+        "width": 480,
+        "bytes": 39302
+      },
+      {
+        "src": "/optimized/engineering-lab-c1eb8d50ea66-768.webp",
+        "width": 768,
+        "bytes": 85310
+      },
+      {
+        "src": "/optimized/engineering-lab-c1eb8d50ea66-1280.webp",
+        "width": 1280,
+        "bytes": 189392
+      },
+      {
+        "src": "/optimized/engineering-lab-c1eb8d50ea66-1672.webp",
+        "width": 1672,
+        "bytes": 279326
+      }
+    ]
+  },
+  {
+    "original": "favicon.png",
+    "originalBytes": 3891,
+    "variants": [
+      {
+        "src": "/optimized/favicon-5825467688b2-64.webp",
+        "width": 64,
+        "bytes": 868
+      }
+    ]
+  },
+  {
+    "original": "gvs-logo.png",
+    "originalBytes": 1012520,
+    "variants": [
+      {
+        "src": "/optimized/gvs-logo-1e6f3a053ab3-480.webp",
+        "width": 480,
+        "bytes": 43338
+      },
+      {
+        "src": "/optimized/gvs-logo-1e6f3a053ab3-768.webp",
+        "width": 768,
+        "bytes": 84832
+      },
+      {
+        "src": "/optimized/gvs-logo-1e6f3a053ab3-1280.webp",
+        "width": 1280,
+        "bytes": 188522
+      },
+      {
+        "src": "/optimized/gvs-logo-1e6f3a053ab3-1672.webp",
+        "width": 1672,
+        "bytes": 269718
+      }
+    ]
+  },
+  {
+    "original": "hardware-lab.jpg",
+    "originalBytes": 205143,
+    "variants": [
+      {
+        "src": "/optimized/hardware-lab-a118e81b7ba3-480.webp",
+        "width": 480,
+        "bytes": 30870
+      },
+      {
+        "src": "/optimized/hardware-lab-a118e81b7ba3-768.webp",
+        "width": 768,
+        "bytes": 62054
+      },
+      {
+        "src": "/optimized/hardware-lab-a118e81b7ba3-1280.webp",
+        "width": 1280,
+        "bytes": 126508
+      },
+      {
+        "src": "/optimized/hardware-lab-a118e81b7ba3-1600.webp",
+        "width": 1600,
+        "bytes": 174284
+      }
+    ]
+  },
+  {
+    "original": "hero.jpg",
+    "originalBytes": 221356,
+    "variants": [
+      {
+        "src": "/optimized/hero-5e5c9118eca9-480.webp",
+        "width": 480,
+        "bytes": 24932
+      },
+      {
+        "src": "/optimized/hero-5e5c9118eca9-768.webp",
+        "width": 768,
+        "bytes": 48136
+      },
+      {
+        "src": "/optimized/hero-5e5c9118eca9-1280.webp",
+        "width": 1280,
+        "bytes": 92802
+      },
+      {
+        "src": "/optimized/hero-5e5c9118eca9-1920.webp",
+        "width": 1920,
+        "bytes": 160668
+      }
+    ]
+  },
+  {
+    "original": "hero.png",
+    "originalBytes": 2292879,
+    "variants": [
+      {
+        "src": "/optimized/hero-62873b20e04e-480.webp",
+        "width": 480,
+        "bytes": 36562
+      },
+      {
+        "src": "/optimized/hero-62873b20e04e-768.webp",
+        "width": 768,
+        "bytes": 79954
+      },
+      {
+        "src": "/optimized/hero-62873b20e04e-1280.webp",
+        "width": 1280,
+        "bytes": 172238
+      },
+      {
+        "src": "/optimized/hero-62873b20e04e-1672.webp",
+        "width": 1672,
+        "bytes": 244568
+      }
+    ]
+  },
+  {
+    "original": "heroabout.png",
+    "originalBytes": 1441303,
+    "variants": [
+      {
+        "src": "/optimized/heroabout-6cfb759db6cf-480.webp",
+        "width": 480,
+        "bytes": 32686
+      },
+      {
+        "src": "/optimized/heroabout-6cfb759db6cf-768.webp",
+        "width": 768,
+        "bytes": 66216
+      },
+      {
+        "src": "/optimized/heroabout-6cfb759db6cf-1280.webp",
+        "width": 1280,
+        "bytes": 129894
+      },
+      {
+        "src": "/optimized/heroabout-6cfb759db6cf-1284.webp",
+        "width": 1284,
+        "bytes": 131564
+      }
+    ]
+  },
+  {
+    "original": "heroser.png",
+    "originalBytes": 1519811,
+    "variants": [
+      {
+        "src": "/optimized/heroser-293e8a07c997-480.webp",
+        "width": 480,
+        "bytes": 11452
+      },
+      {
+        "src": "/optimized/heroser-293e8a07c997-768.webp",
+        "width": 768,
+        "bytes": 20556
+      },
+      {
+        "src": "/optimized/heroser-293e8a07c997-1280.webp",
+        "width": 1280,
+        "bytes": 39860
+      },
+      {
+        "src": "/optimized/heroser-293e8a07c997-1672.webp",
+        "width": 1672,
+        "bytes": 55528
+      }
+    ]
+  },
+  {
+    "original": "hos.png",
+    "originalBytes": 2134206,
+    "variants": [
+      {
+        "src": "/optimized/hos-82746d2092b2-480.webp",
+        "width": 480,
+        "bytes": 34104
+      },
+      {
+        "src": "/optimized/hos-82746d2092b2-768.webp",
+        "width": 768,
+        "bytes": 70740
+      },
+      {
+        "src": "/optimized/hos-82746d2092b2-1280.webp",
+        "width": 1280,
+        "bytes": 144846
+      },
+      {
+        "src": "/optimized/hos-82746d2092b2-1672.webp",
+        "width": 1672,
+        "bytes": 199970
+      }
+    ]
+  },
+  {
+    "original": "infantary (2).png",
+    "originalBytes": 8050011,
+    "variants": [
+      {
+        "src": "/optimized/infantary-(2)-5bac6933aa17-480.webp",
+        "width": 480,
+        "bytes": 27050
+      },
+      {
+        "src": "/optimized/infantary-(2)-5bac6933aa17-768.webp",
+        "width": 768,
+        "bytes": 59466
+      },
+      {
+        "src": "/optimized/infantary-(2)-5bac6933aa17-1280.webp",
+        "width": 1280,
+        "bytes": 133124
+      },
+      {
+        "src": "/optimized/infantary-(2)-5bac6933aa17-1920.webp",
+        "width": 1920,
+        "bytes": 237844
+      }
+    ]
+  },
+  {
+    "original": "infantary.png",
+    "originalBytes": 2119962,
+    "variants": [
+      {
+        "src": "/optimized/infantary-80885c18e0b8-480.webp",
+        "width": 480,
+        "bytes": 41152
+      },
+      {
+        "src": "/optimized/infantary-80885c18e0b8-768.webp",
+        "width": 768,
+        "bytes": 95640
+      },
+      {
+        "src": "/optimized/infantary-80885c18e0b8-928.webp",
+        "width": 928,
+        "bytes": 139950
+      }
+    ]
+  },
+  {
+    "original": "lorros.png",
+    "originalBytes": 6783542,
+    "variants": [
+      {
+        "src": "/optimized/lorros-a2cdfde38720-480.webp",
+        "width": 480,
+        "bytes": 13900
+      },
+      {
+        "src": "/optimized/lorros-a2cdfde38720-768.webp",
+        "width": 768,
+        "bytes": 30492
+      },
+      {
+        "src": "/optimized/lorros-a2cdfde38720-1280.webp",
+        "width": 1280,
+        "bytes": 68162
+      },
+      {
+        "src": "/optimized/lorros-a2cdfde38720-1920.webp",
+        "width": 1920,
+        "bytes": 122716
+      }
+    ]
+  },
+  {
+    "original": "lorrs.png",
+    "originalBytes": 8623199,
+    "variants": [
+      {
+        "src": "/optimized/lorrs-f2f53015e887-480.webp",
+        "width": 480,
+        "bytes": 27934
+      },
+      {
+        "src": "/optimized/lorrs-f2f53015e887-768.webp",
+        "width": 768,
+        "bytes": 55786
+      },
+      {
+        "src": "/optimized/lorrs-f2f53015e887-1280.webp",
+        "width": 1280,
+        "bytes": 119598
+      },
+      {
+        "src": "/optimized/lorrs-f2f53015e887-1920.webp",
+        "width": 1920,
+        "bytes": 228434
+      }
+    ]
+  },
+  {
+    "original": "lors.png",
+    "originalBytes": 2479032,
+    "variants": [
+      {
+        "src": "/optimized/lors-8000c6774ef3-480.webp",
+        "width": 480,
+        "bytes": 35880
+      },
+      {
+        "src": "/optimized/lors-8000c6774ef3-768.webp",
+        "width": 768,
+        "bytes": 75890
+      },
+      {
+        "src": "/optimized/lors-8000c6774ef3-1280.webp",
+        "width": 1280,
+        "bytes": 159534
+      },
+      {
+        "src": "/optimized/lors-8000c6774ef3-1678.webp",
+        "width": 1678,
+        "bytes": 225524
+      }
+    ]
+  },
+  {
+    "original": "mechanized.png",
+    "originalBytes": 2530781,
+    "variants": [
+      {
+        "src": "/optimized/mechanized-cbd10c7d1282-480.webp",
+        "width": 480,
+        "bytes": 42362
+      },
+      {
+        "src": "/optimized/mechanized-cbd10c7d1282-768.webp",
+        "width": 768,
+        "bytes": 92678
+      },
+      {
+        "src": "/optimized/mechanized-cbd10c7d1282-1280.webp",
+        "width": 1280,
+        "bytes": 207200
+      },
+      {
+        "src": "/optimized/mechanized-cbd10c7d1282-1672.webp",
+        "width": 1672,
+        "bytes": 297054
+      }
+    ]
+  },
+  {
+    "original": "medical.png",
+    "originalBytes": 2616655,
+    "variants": [
+      {
+        "src": "/optimized/medical-ca15596c4b12-480.webp",
+        "width": 480,
+        "bytes": 44516
+      },
+      {
+        "src": "/optimized/medical-ca15596c4b12-768.webp",
+        "width": 768,
+        "bytes": 91384
+      },
+      {
+        "src": "/optimized/medical-ca15596c4b12-1280.webp",
+        "width": 1280,
+        "bytes": 185094
+      },
+      {
+        "src": "/optimized/medical-ca15596c4b12-1678.webp",
+        "width": 1678,
+        "bytes": 250472
+      }
+    ]
+  },
+  {
+    "original": "medical1.png",
+    "originalBytes": 2063843,
+    "variants": [
+      {
+        "src": "/optimized/medical1-066b4384723e-480.webp",
+        "width": 480,
+        "bytes": 31712
+      },
+      {
+        "src": "/optimized/medical1-066b4384723e-768.webp",
+        "width": 768,
+        "bytes": 60954
+      },
+      {
+        "src": "/optimized/medical1-066b4384723e-1264.webp",
+        "width": 1264,
+        "bytes": 120892
+      }
+    ]
+  },
+  {
+    "original": "megawalts.jpeg",
+    "originalBytes": 90340,
+    "variants": [
+      {
+        "src": "/optimized/megawalts-8b62a6b73d4f-480.webp",
+        "width": 480,
+        "bytes": 60068
+      },
+      {
+        "src": "/optimized/megawalts-8b62a6b73d4f-554.webp",
+        "width": 554,
+        "bytes": 82128
+      }
+    ]
+  },
+  {
+    "original": "motor.png",
+    "originalBytes": 7394485,
+    "variants": [
+      {
+        "src": "/optimized/motor-016cf6822409-480.webp",
+        "width": 480,
+        "bytes": 18434
+      },
+      {
+        "src": "/optimized/motor-016cf6822409-768.webp",
+        "width": 768,
+        "bytes": 37112
+      },
+      {
+        "src": "/optimized/motor-016cf6822409-1280.webp",
+        "width": 1280,
+        "bytes": 80564
+      },
+      {
+        "src": "/optimized/motor-016cf6822409-1920.webp",
+        "width": 1920,
+        "bytes": 152194
+      }
+    ]
+  },
+  {
+    "original": "observation.png",
+    "originalBytes": 8513625,
+    "variants": [
+      {
+        "src": "/optimized/observation-9b58c76e33cc-480.webp",
+        "width": 480,
+        "bytes": 25004
+      },
+      {
+        "src": "/optimized/observation-9b58c76e33cc-768.webp",
+        "width": 768,
+        "bytes": 49420
+      },
+      {
+        "src": "/optimized/observation-9b58c76e33cc-1280.webp",
+        "width": 1280,
+        "bytes": 110490
+      },
+      {
+        "src": "/optimized/observation-9b58c76e33cc-1920.webp",
+        "width": 1920,
+        "bytes": 214266
+      }
+    ]
+  },
+  {
+    "original": "observation1.png",
+    "originalBytes": 1785938,
+    "variants": [
+      {
+        "src": "/optimized/observation1-cb5dc86a1c95-480.webp",
+        "width": 480,
+        "bytes": 26534
+      },
+      {
+        "src": "/optimized/observation1-cb5dc86a1c95-768.webp",
+        "width": 768,
+        "bytes": 46238
+      },
+      {
+        "src": "/optimized/observation1-cb5dc86a1c95-1216.webp",
+        "width": 1216,
+        "bytes": 76726
+      }
+    ]
+  },
+  {
+    "original": "powerplant.webp",
+    "originalBytes": 3820,
+    "variants": [
+      {
+        "src": "/optimized/powerplant-bb6d4b9c9aba-326.webp",
+        "width": 326,
+        "bytes": 4666
+      }
+    ]
+  },
+  {
+    "original": "producthero.png",
+    "originalBytes": 1846994,
+    "variants": [
+      {
+        "src": "/optimized/producthero-2ea00471f53c-480.webp",
+        "width": 480,
+        "bytes": 13026
+      },
+      {
+        "src": "/optimized/producthero-2ea00471f53c-768.webp",
+        "width": 768,
+        "bytes": 27326
+      },
+      {
+        "src": "/optimized/producthero-2ea00471f53c-1280.webp",
+        "width": 1280,
+        "bytes": 59232
+      },
+      {
+        "src": "/optimized/producthero-2ea00471f53c-1920.webp",
+        "width": 1920,
+        "bytes": 108126
+      }
+    ]
+  },
+  {
+    "original": "project.png",
+    "originalBytes": 1775533,
+    "variants": [
+      {
+        "src": "/optimized/project-1d0f482001c1-480.webp",
+        "width": 480,
+        "bytes": 10406
+      },
+      {
+        "src": "/optimized/project-1d0f482001c1-768.webp",
+        "width": 768,
+        "bytes": 23402
+      },
+      {
+        "src": "/optimized/project-1d0f482001c1-1280.webp",
+        "width": 1280,
+        "bytes": 55152
+      },
+      {
+        "src": "/optimized/project-1d0f482001c1-1920.webp",
+        "width": 1920,
+        "bytes": 102630
+      }
+    ]
+  },
+  {
+    "original": "projectexe.jpg",
+    "originalBytes": 113484,
+    "variants": [
+      {
+        "src": "/optimized/projectexe-692953477e90-480.webp",
+        "width": 480,
+        "bytes": 35244
+      },
+      {
+        "src": "/optimized/projectexe-692953477e90-768.webp",
+        "width": 768,
+        "bytes": 72066
+      },
+      {
+        "src": "/optimized/projectexe-692953477e90-1024.webp",
+        "width": 1024,
+        "bytes": 103444
+      }
+    ]
+  },
+  {
+    "original": "radio.png",
+    "originalBytes": 2217650,
+    "variants": [
+      {
+        "src": "/optimized/radio-af8935e60b6d-480.webp",
+        "width": 480,
+        "bytes": 37284
+      },
+      {
+        "src": "/optimized/radio-af8935e60b6d-768.webp",
+        "width": 768,
+        "bytes": 78758
+      },
+      {
+        "src": "/optimized/radio-af8935e60b6d-1280.webp",
+        "width": 1280,
+        "bytes": 164984
+      },
+      {
+        "src": "/optimized/radio-af8935e60b6d-1671.webp",
+        "width": 1671,
+        "bytes": 234846
+      }
+    ]
+  },
+  {
+    "original": "replica.png",
+    "originalBytes": 1973376,
+    "variants": [
+      {
+        "src": "/optimized/replica-ca30393fa5c4-480.webp",
+        "width": 480,
+        "bytes": 31494
+      },
+      {
+        "src": "/optimized/replica-ca30393fa5c4-768.webp",
+        "width": 768,
+        "bytes": 63138
+      },
+      {
+        "src": "/optimized/replica-ca30393fa5c4-1280.webp",
+        "width": 1280,
+        "bytes": 126368
+      },
+      {
+        "src": "/optimized/replica-ca30393fa5c4-1672.webp",
+        "width": 1672,
+        "bytes": 175732
+      }
+    ]
+  },
+  {
+    "original": "rocketlauncher.jpg",
+    "originalBytes": 54452,
+    "variants": [
+      {
+        "src": "/optimized/rocketlauncher-cce358b9235d-480.webp",
+        "width": 480,
+        "bytes": 15876
+      },
+      {
+        "src": "/optimized/rocketlauncher-cce358b9235d-600.webp",
+        "width": 600,
+        "bytes": 21854
+      }
+    ]
+  },
+  {
+    "original": "simulation.png",
+    "originalBytes": 7591895,
+    "variants": [
+      {
+        "src": "/optimized/simulation-26ddf1818016-480.webp",
+        "width": 480,
+        "bytes": 29992
+      },
+      {
+        "src": "/optimized/simulation-26ddf1818016-768.webp",
+        "width": 768,
+        "bytes": 64560
+      },
+      {
+        "src": "/optimized/simulation-26ddf1818016-1280.webp",
+        "width": 1280,
+        "bytes": 150550
+      },
+      {
+        "src": "/optimized/simulation-26ddf1818016-1920.webp",
+        "width": 1920,
+        "bytes": 272170
+      }
+    ]
+  },
+  {
+    "original": "software-lab.jpg",
+    "originalBytes": 171436,
+    "variants": [
+      {
+        "src": "/optimized/software-lab-efd0a2d15430-480.webp",
+        "width": 480,
+        "bytes": 21824
+      },
+      {
+        "src": "/optimized/software-lab-efd0a2d15430-768.webp",
+        "width": 768,
+        "bytes": 47160
+      },
+      {
+        "src": "/optimized/software-lab-efd0a2d15430-1280.webp",
+        "width": 1280,
+        "bytes": 105242
+      },
+      {
+        "src": "/optimized/software-lab-efd0a2d15430-1672.webp",
+        "width": 1672,
+        "bytes": 158282
+      }
+    ]
+  },
+  {
+    "original": "software.png",
+    "originalBytes": 7060196,
+    "variants": [
+      {
+        "src": "/optimized/software-ee929093295f-480.webp",
+        "width": 480,
+        "bytes": 35312
+      },
+      {
+        "src": "/optimized/software-ee929093295f-768.webp",
+        "width": 768,
+        "bytes": 69240
+      },
+      {
+        "src": "/optimized/software-ee929093295f-1280.webp",
+        "width": 1280,
+        "bytes": 136016
+      },
+      {
+        "src": "/optimized/software-ee929093295f-1920.webp",
+        "width": 1920,
+        "bytes": 229818
+      }
+    ]
+  },
+  {
+    "original": "solarser.png",
+    "originalBytes": 2129929,
+    "variants": [
+      {
+        "src": "/optimized/solarser-0127533cbbbb-480.webp",
+        "width": 480,
+        "bytes": 23628
+      },
+      {
+        "src": "/optimized/solarser-0127533cbbbb-768.webp",
+        "width": 768,
+        "bytes": 52096
+      },
+      {
+        "src": "/optimized/solarser-0127533cbbbb-1280.webp",
+        "width": 1280,
+        "bytes": 116486
+      },
+      {
+        "src": "/optimized/solarser-0127533cbbbb-1672.webp",
+        "width": 1672,
+        "bytes": 173446
+      }
+    ]
+  },
+  {
+    "original": "support-lab.jpg",
+    "originalBytes": 167059,
+    "variants": [
+      {
+        "src": "/optimized/support-lab-ecbcaa308af0-480.webp",
+        "width": 480,
+        "bytes": 32342
+      },
+      {
+        "src": "/optimized/support-lab-ecbcaa308af0-768.webp",
+        "width": 768,
+        "bytes": 64410
+      },
+      {
+        "src": "/optimized/support-lab-ecbcaa308af0-1280.webp",
+        "width": 1280,
+        "bytes": 132896
+      },
+      {
+        "src": "/optimized/support-lab-ecbcaa308af0-1408.webp",
+        "width": 1408,
+        "bytes": 154914
+      }
+    ]
+  },
+  {
+    "original": "systeminteg.png",
+    "originalBytes": 2523521,
+    "variants": [
+      {
+        "src": "/optimized/systeminteg-ed45e71b51b7-480.webp",
+        "width": 480,
+        "bytes": 42340
+      },
+      {
+        "src": "/optimized/systeminteg-ed45e71b51b7-768.webp",
+        "width": 768,
+        "bytes": 85742
+      },
+      {
+        "src": "/optimized/systeminteg-ed45e71b51b7-1280.webp",
+        "width": 1280,
+        "bytes": 165820
+      },
+      {
+        "src": "/optimized/systeminteg-ed45e71b51b7-1678.webp",
+        "width": 1678,
+        "bytes": 227954
+      }
+    ]
+  },
+  {
+    "original": "systeminteg1.png",
+    "originalBytes": 1890414,
+    "variants": [
+      {
+        "src": "/optimized/systeminteg1-e5cbe4fcfc7e-480.webp",
+        "width": 480,
+        "bytes": 21052
+      },
+      {
+        "src": "/optimized/systeminteg1-e5cbe4fcfc7e-768.webp",
+        "width": 768,
+        "bytes": 41382
+      },
+      {
+        "src": "/optimized/systeminteg1-e5cbe4fcfc7e-1264.webp",
+        "width": 1264,
+        "bytes": 85732
+      }
+    ]
+  },
+  {
+    "original": "ta.webp",
+    "originalBytes": 15352,
+    "variants": [
+      {
+        "src": "/optimized/ta-1333b877aa78-380.webp",
+        "width": 380,
+        "bytes": 17912
+      }
+    ]
+  },
+  {
+    "original": "tan.png",
+    "originalBytes": 2468455,
+    "variants": [
+      {
+        "src": "/optimized/tan-7ad3a369a012-480.webp",
+        "width": 480,
+        "bytes": 34308
+      },
+      {
+        "src": "/optimized/tan-7ad3a369a012-768.webp",
+        "width": 768,
+        "bytes": 75032
+      },
+      {
+        "src": "/optimized/tan-7ad3a369a012-1280.webp",
+        "width": 1280,
+        "bytes": 173266
+      },
+      {
+        "src": "/optimized/tan-7ad3a369a012-1672.webp",
+        "width": 1672,
+        "bytes": 257140
+      }
+    ]
+  },
+  {
+    "original": "tankcrew.png",
+    "originalBytes": 2274308,
+    "variants": [
+      {
+        "src": "/optimized/tankcrew-4d0f19fcae9b-480.webp",
+        "width": 480,
+        "bytes": 34276
+      },
+      {
+        "src": "/optimized/tankcrew-4d0f19fcae9b-768.webp",
+        "width": 768,
+        "bytes": 72692
+      },
+      {
+        "src": "/optimized/tankcrew-4d0f19fcae9b-1280.webp",
+        "width": 1280,
+        "bytes": 154656
+      },
+      {
+        "src": "/optimized/tankcrew-4d0f19fcae9b-1672.webp",
+        "width": 1672,
+        "bytes": 217570
+      }
+    ]
+  },
+  {
+    "original": "tanktroop.png",
+    "originalBytes": 2468455,
+    "variants": [
+      {
+        "src": "/optimized/tanktroop-7ad3a369a012-480.webp",
+        "width": 480,
+        "bytes": 34308
+      },
+      {
+        "src": "/optimized/tanktroop-7ad3a369a012-768.webp",
+        "width": 768,
+        "bytes": 75032
+      },
+      {
+        "src": "/optimized/tanktroop-7ad3a369a012-1280.webp",
+        "width": 1280,
+        "bytes": 173266
+      },
+      {
+        "src": "/optimized/tanktroop-7ad3a369a012-1672.webp",
+        "width": 1672,
+        "bytes": 257140
+      }
+    ]
+  },
+  {
+    "original": "techhero.png",
+    "originalBytes": 1618714,
+    "variants": [
+      {
+        "src": "/optimized/techhero-bdd0e580878a-480.webp",
+        "width": 480,
+        "bytes": 15592
+      },
+      {
+        "src": "/optimized/techhero-bdd0e580878a-768.webp",
+        "width": 768,
+        "bytes": 29250
+      },
+      {
+        "src": "/optimized/techhero-bdd0e580878a-1280.webp",
+        "width": 1280,
+        "bytes": 56040
+      },
+      {
+        "src": "/optimized/techhero-bdd0e580878a-1672.webp",
+        "width": 1672,
+        "bytes": 77704
+      }
+    ]
+  },
+  {
+    "original": "technologies.png",
+    "originalBytes": 7998933,
+    "variants": [
+      {
+        "src": "/optimized/technologies-ee275fcdecf4-480.webp",
+        "width": 480,
+        "bytes": 20076
+      },
+      {
+        "src": "/optimized/technologies-ee275fcdecf4-768.webp",
+        "width": 768,
+        "bytes": 41490
+      },
+      {
+        "src": "/optimized/technologies-ee275fcdecf4-1280.webp",
+        "width": 1280,
+        "bytes": 94822
+      },
+      {
+        "src": "/optimized/technologies-ee275fcdecf4-1920.webp",
+        "width": 1920,
+        "bytes": 210348
+      }
+    ]
+  },
+  {
+    "original": "testing-lab.jpg",
+    "originalBytes": 130309,
+    "variants": [
+      {
+        "src": "/optimized/testing-lab-e0ed54599052-480.webp",
+        "width": 480,
+        "bytes": 28150
+      },
+      {
+        "src": "/optimized/testing-lab-e0ed54599052-768.webp",
+        "width": 768,
+        "bytes": 55306
+      },
+      {
+        "src": "/optimized/testing-lab-e0ed54599052-1280.webp",
+        "width": 1280,
+        "bytes": 122450
+      }
+    ]
+  },
+  {
+    "original": "vr-lab.png",
+    "originalBytes": 1822691,
+    "variants": [
+      {
+        "src": "/optimized/vr-lab-0221b67b5e8c-480.webp",
+        "width": 480,
+        "bytes": 23786
+      },
+      {
+        "src": "/optimized/vr-lab-0221b67b5e8c-768.webp",
+        "width": 768,
+        "bytes": 42964
+      },
+      {
+        "src": "/optimized/vr-lab-0221b67b5e8c-1280.webp",
+        "width": 1280,
+        "bytes": 80580
+      },
+      {
+        "src": "/optimized/vr-lab-0221b67b5e8c-1372.webp",
+        "width": 1372,
+        "bytes": 88134
+      }
+    ]
+  },
+  {
+    "original": "vr.webp",
+    "originalBytes": 100734,
+    "variants": [
+      {
+        "src": "/optimized/vr-da1d97e9616a-480.webp",
+        "width": 480,
+        "bytes": 23782
+      },
+      {
+        "src": "/optimized/vr-da1d97e9616a-768.webp",
+        "width": 768,
+        "bytes": 43342
+      },
+      {
+        "src": "/optimized/vr-da1d97e9616a-1280.webp",
+        "width": 1280,
+        "bytes": 77084
+      },
+      {
+        "src": "/optimized/vr-da1d97e9616a-1536.webp",
+        "width": 1536,
+        "bytes": 95882
+      }
+    ]
+  },
+  {
+    "original": "vr1.png",
+    "originalBytes": 1717386,
+    "variants": [
+      {
+        "src": "/optimized/vr1-14af56121beb-480.webp",
+        "width": 480,
+        "bytes": 21648
+      },
+      {
+        "src": "/optimized/vr1-14af56121beb-768.webp",
+        "width": 768,
+        "bytes": 41080
+      },
+      {
+        "src": "/optimized/vr1-14af56121beb-1264.webp",
+        "width": 1264,
+        "bytes": 79144
+      }
+    ]
+  },
+  {
+    "original": "vrhome.png",
+    "originalBytes": 7602259,
+    "variants": [
+      {
+        "src": "/optimized/vrhome-2fa235885a49-480.webp",
+        "width": 480,
+        "bytes": 29170
+      },
+      {
+        "src": "/optimized/vrhome-2fa235885a49-768.webp",
+        "width": 768,
+        "bytes": 57728
+      },
+      {
+        "src": "/optimized/vrhome-2fa235885a49-1280.webp",
+        "width": 1280,
+        "bytes": 114840
+      },
+      {
+        "src": "/optimized/vrhome-2fa235885a49-1920.webp",
+        "width": 1920,
+        "bytes": 193092
+      }
+    ]
+  },
+  {
+    "original": "vrop.png",
+    "originalBytes": 7949828,
+    "variants": [
+      {
+        "src": "/optimized/vrop-4f2bf4464770-480.webp",
+        "width": 480,
+        "bytes": 23310
+      },
+      {
+        "src": "/optimized/vrop-4f2bf4464770-768.webp",
+        "width": 768,
+        "bytes": 46338
+      },
+      {
+        "src": "/optimized/vrop-4f2bf4464770-1280.webp",
+        "width": 1280,
+        "bytes": 95002
+      },
+      {
+        "src": "/optimized/vrop-4f2bf4464770-1920.webp",
+        "width": 1920,
+        "bytes": 166598
+      }
+    ]
+  },
+  {
+    "original": "vrsnipperweapon.png",
+    "originalBytes": 2101700,
+    "variants": [
+      {
+        "src": "/optimized/vrsnipperweapon-ac4766a49766-480.webp",
+        "width": 480,
+        "bytes": 35898
+      },
+      {
+        "src": "/optimized/vrsnipperweapon-ac4766a49766-768.webp",
+        "width": 768,
+        "bytes": 72434
+      },
+      {
+        "src": "/optimized/vrsnipperweapon-ac4766a49766-1280.webp",
+        "width": 1280,
+        "bytes": 141776
+      },
+      {
+        "src": "/optimized/vrsnipperweapon-ac4766a49766-1672.webp",
+        "width": 1672,
+        "bytes": 191714
+      }
+    ]
+  },
+  {
+    "original": "vrweapon.png",
+    "originalBytes": 7879455,
+    "variants": [
+      {
+        "src": "/optimized/vrweapon-7122772bb00f-480.webp",
+        "width": 480,
+        "bytes": 25876
+      },
+      {
+        "src": "/optimized/vrweapon-7122772bb00f-768.webp",
+        "width": 768,
+        "bytes": 56500
+      },
+      {
+        "src": "/optimized/vrweapon-7122772bb00f-1280.webp",
+        "width": 1280,
+        "bytes": 125608
+      },
+      {
+        "src": "/optimized/vrweapon-7122772bb00f-1920.webp",
+        "width": 1920,
+        "bytes": 236756
+      }
+    ]
+  },
+  {
+    "original": "weapons.png",
+    "originalBytes": 1276914,
+    "variants": [
+      {
+        "src": "/optimized/weapons-d56ea39aabd7-480.webp",
+        "width": 480,
+        "bytes": 43516
+      },
+      {
+        "src": "/optimized/weapons-d56ea39aabd7-768.webp",
+        "width": 768,
+        "bytes": 84626
+      },
+      {
+        "src": "/optimized/weapons-d56ea39aabd7-1280.webp",
+        "width": 1280,
+        "bytes": 192260
+      },
+      {
+        "src": "/optimized/weapons-d56ea39aabd7-1678.webp",
+        "width": 1678,
+        "bytes": 286312
+      }
+    ]
+  },
+  {
+    "original": "wep.jpg",
+    "originalBytes": 38816,
+    "variants": [
+      {
+        "src": "/optimized/wep-9d96d36c5d25-480.webp",
+        "width": 480,
+        "bytes": 21990
+      },
+      {
+        "src": "/optimized/wep-9d96d36c5d25-650.webp",
+        "width": 650,
+        "bytes": 35390
+      }
+    ]
+  }
+]

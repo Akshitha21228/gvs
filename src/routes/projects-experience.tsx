@@ -532,7 +532,7 @@ function ProjectsExperience() {
       <section
         className="relative py-20 md:py-28 overflow-hidden bg-[#0E223B]"
         style={{
-          backgroundImage: "url('/project.png')",
+          backgroundImage: "image-set(url('/optimized/project-1d0f482001c1-768.webp') 1x, url('/optimized/project-1d0f482001c1-1920.webp') 2x)",
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",

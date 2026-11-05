@@ -1,3 +1,4 @@
+import { ResponsiveImage } from "@/components/site/ResponsiveImage";
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { ArrowRight, ClipboardCheck, PenTool, Boxes, CheckSquare, Wrench } from "lucide-react";
 
@@ -165,7 +166,7 @@ function ServicesPage() {
                   {/* Image Column */}
                   <div className={`${isEven ? 'lg:order-1' : 'lg:order-2'}`}>
                     <div className="relative aspect-[4/3] rounded-[16px] overflow-hidden border border-[#DDE5ED] shadow-md bg-white p-2">
-                      <img 
+                      <ResponsiveImage
                         src={service.image} 
                         alt={service.alt} 
                         className="w-full h-full object-cover rounded-xl"

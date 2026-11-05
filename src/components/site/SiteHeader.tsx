@@ -2289,7 +2289,7 @@
 // }
 import { Link } from "@tanstack/react-router";
 import { Menu, X, ChevronDown, Cpu, Sun, ShieldCheck, Layers, Wrench } from "lucide-react";
-import { useEffect, useRef, useState } from "react";
+import { memo, useEffect, useRef, useState } from "react";
 import { Logo } from "./Logo";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
@@ -2341,7 +2341,7 @@ const serviceItems = [
 const projectsLink = { to: "/projects-experience", label: "Projects & Experience" } as const;
 const contactLink = { to: "/contact", label: "Contact Us" } as const;
 
-export function SiteHeader() {
+export const SiteHeader = memo(function SiteHeader() {
   const [open, setOpen] = useState(false);
   const [engineeringOpen, setEngineeringOpen] = useState(false);
   const [servicesOpen, setServicesOpen] = useState(false);
@@ -2664,4 +2664,4 @@ export function SiteHeader() {
       )}
     </header>
   );
-}
+});

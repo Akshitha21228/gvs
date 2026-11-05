@@ -1,3 +1,4 @@
+import { ResponsiveImage } from "@/components/site/ResponsiveImage";
 // import { createFileRoute, Link } from "@tanstack/react-router";
 // import { Code2, Cpu, Box, Layers, Settings, Wrench, ArrowRight } from "lucide-react";
 
@@ -733,7 +734,7 @@ function EngineeringCapabilities() {
       <section 
         className="relative flex items-center justify-start overflow-hidden bg-[#10243D] h-[430px] md:h-[480px] lg:h-[500px]"
         style={{
-          backgroundImage: "url('/enghero.png')",
+          backgroundImage: "image-set(url('/optimized/enghero-1791df665639-768.webp') 1x, url('/optimized/enghero-1791df665639-1920.webp') 2x)",
           backgroundSize: "cover",
           backgroundPosition: "center center",
           backgroundRepeat: "no-repeat",
@@ -780,7 +781,7 @@ function EngineeringCapabilities() {
                   {/* Image Column */}
                   <div className={`relative ${isEven ? 'lg:order-1' : 'lg:order-2'}`}>
                     <div className="relative aspect-[16/10] rounded-[16px] overflow-hidden shadow-lg bg-slate-200">
-                      <img 
+                      <ResponsiveImage
                         src={cap.image} 
                         alt={cap.alt} 
                         className="absolute inset-0 w-full h-full object-cover"

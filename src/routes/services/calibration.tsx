@@ -1,3 +1,4 @@
+import { ResponsiveImage } from "@/components/site/ResponsiveImage";
 import { createFileRoute } from "@tanstack/react-router";
 import { CheckCircle2, Zap, Gauge, Radio, Stethoscope } from "lucide-react";
 import { PageHero } from "@/components/site/PageHero";
@@ -64,7 +65,7 @@ function CalibrationServices() {
 
             {/* Image Right */}
             <div className="w-full relative rounded-2xl overflow-hidden shadow-lg border border-border h-[400px] lg:h-[500px]">
-              <img 
+              <ResponsiveImage
                 src="/calibiration.png" 
                 alt="Calibration Services" 
                 className="w-full h-full object-cover object-center"

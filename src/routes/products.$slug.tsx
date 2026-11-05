@@ -877,7 +877,7 @@ function ProductDetailPage() {
             {/* Left Card: Image */}
             <div className="bg-white rounded-[16px] border border-[#E3E9F0] shadow-xl p-3 md:p-4 flex items-center justify-center">
               <div className="relative w-full aspect-[4/3] rounded-xl overflow-hidden bg-[#F3F6FA]">
-                <SiteImage 
+                <SiteImage priority
                   image={product.image as any} 
                   className="absolute inset-0 w-full h-full object-cover" 
                 />

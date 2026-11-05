@@ -57,7 +57,7 @@ export function WhyChooseGVS() {
             {advantages.slice(0, 3).map((item, index) => (
               <div 
                 key={index}
-                className="group bg-white/5 border border-[#32BCEB]/20 rounded-[16px] p-8 transition-all duration-200 ease-out hover:-translate-y-0.5 hover:border-[#32BCEB]/50 hover:bg-white/10"
+                className="group bg-white/5 border border-[#32BCEB]/20 rounded-[16px] p-8 transition-[transform,border-color,background-color] duration-200 ease-out hover:-translate-y-0.5 hover:border-[#32BCEB]/50 hover:bg-white/10"
               >
                 <div className="flex size-12 items-center justify-center rounded-xl bg-[#32BCEB]/10 text-[#32BCEB] mb-6">
                   {item.icon}
@@ -77,7 +77,7 @@ export function WhyChooseGVS() {
             {advantages.slice(3, 5).map((item, index) => (
               <div 
                 key={index}
-                className="group bg-white/5 border border-[#32BCEB]/20 rounded-[16px] p-8 transition-all duration-200 ease-out hover:-translate-y-0.5 hover:border-[#32BCEB]/50 hover:bg-white/10"
+                className="group bg-white/5 border border-[#32BCEB]/20 rounded-[16px] p-8 transition-[transform,border-color,background-color] duration-200 ease-out hover:-translate-y-0.5 hover:border-[#32BCEB]/50 hover:bg-white/10"
               >
                 <div className="flex size-12 items-center justify-center rounded-xl bg-[#32BCEB]/10 text-[#32BCEB] mb-6">
                   {item.icon}

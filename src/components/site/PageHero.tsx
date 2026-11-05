@@ -3,7 +3,7 @@ import type { SiteImage as SiteImageT } from "@/data/images";
 import { SiteImage } from "./SiteImage";
 
 export function PageHero({ eyebrow, title, intro, image, children }: {
-  eyebrow: string; title: string; intro?: string; image?: SiteImageT; children?: ReactNode;
+  eyebrow: string; title: string; intro?: string | undefined; image?: SiteImageT; children?: ReactNode;
 }) {
   return (
     <section className="relative overflow-hidden bg-navy text-on-dark">

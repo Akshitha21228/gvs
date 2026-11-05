@@ -134,3 +134,7 @@
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
 }
+
+/* Self-host the same variable font families; swap keeps text immediately visible. */
+@font-face { font-family: "Manrope"; font-style: normal; font-weight: 200 800; font-display: swap; src: url("/fonts/manrope-latin-variable.woff2") format("woff2"); }
+@font-face { font-family: "Sora"; font-style: normal; font-weight: 100 800; font-display: swap; src: url("/fonts/sora-latin-variable.woff2") format("woff2"); }

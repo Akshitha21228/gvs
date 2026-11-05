@@ -1,3 +1,5 @@
+import { ViewportVideo } from "@/components/site/ViewportVideo";
+import { ResponsiveImage } from "@/components/site/ResponsiveImage";
 // import { createFileRoute, Link } from "@tanstack/react-router";
 // import { ArrowRight, Cpu, Layers, Wrench, PencilRuler } from "lucide-react";
 // import { Button } from "@/components/ui/button";
@@ -1618,7 +1620,7 @@ function Home() {
       {/* 1. HERO SECTION */}
       <section className="relative isolate min-h-[85vh] lg:min-h-[90vh] flex items-center overflow-hidden bg-navy">
         <div className="absolute inset-0 -z-10">
-          <img src="/hero.png" alt="Defence Lab" className="w-full h-full object-cover object-[70%_center] lg:object-center" />
+          <ResponsiveImage priority sizes="(max-width: 767px) max(100vw, 178vh), 100vw" src="/hero.png" alt="Defence Lab" className="w-full h-full object-cover object-[70%_center] lg:object-center" />
           <div className="absolute inset-0 bg-gradient-to-r from-[#0D1D2D] via-[#0D1D2D]/80 to-transparent lg:w-3/4" />
           <div className="absolute inset-0 bg-[#0D1D2D]/40 lg:hidden" />
         </div>
@@ -1676,7 +1678,7 @@ function Home() {
           </div>
 
           <div className="relative animate-fade-in w-full aspect-[5/4] rounded-xl overflow-hidden shadow-xl bg-slate-100">
-            <img src="/engineering-lab.png" alt="Lab" className="absolute inset-0 w-full h-full object-cover object-[60%_center]" />
+            <ResponsiveImage src="/engineering-lab.png" alt="Lab" className="absolute inset-0 w-full h-full object-cover object-[60%_center]" />
           </div>
 
         </div>
@@ -1695,10 +1697,10 @@ function Home() {
               <Link
                 key={index}
                 to={cap.link}
-                className="group flex flex-col h-full bg-[#0D1C2D] rounded-[16px] overflow-hidden shadow-md border border-transparent hover:border-[#80C5FF]/50 transition-all duration-300"
+                className="group flex flex-col h-full bg-[#0D1C2D] rounded-[16px] overflow-hidden shadow-md border border-transparent hover:border-[#80C5FF]/50 transition-[border-color,box-shadow,transform] duration-300"
               >
                 <div className="relative h-[290px] w-full overflow-hidden">
-                  <img 
+                  <ResponsiveImage
                     src={cap.image} 
                     alt={cap.title} 
                     style={{ objectPosition: cap.objectPosition }}
@@ -1728,12 +1730,8 @@ function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-[45%_55%] gap-8 lg:gap-10 lg:h-[540px]">
             
             <div className="relative w-full h-[450px] lg:h-full rounded-2xl overflow-hidden shadow-xl border border-slate-200 bg-[#0D1D2D]">
-              <video autoPlay muted loop playsInline className="absolute inset-0 w-full h-full object-cover blur-xl opacity-60 scale-110">
-                <source src="/gvs-experience-optimized.mp4" type="video/mp4" />
-              </video>
-              <video autoPlay muted loop playsInline poster="/engineering-lab.png" className="absolute inset-0 w-full h-full object-contain z-10">
-                <source src="/gvs-experience-optimized.mp4" type="video/mp4" />
-              </video>
+              <ViewportVideo  muted loop playsInline className="absolute inset-0 w-full h-full object-cover blur-xl opacity-60 scale-110" src="/gvs-experience-optimized.mp4" />
+              <ViewportVideo  muted loop playsInline poster="/engineering-lab.png" className="absolute inset-0 w-full h-full object-contain z-10" src="/gvs-experience-optimized.mp4" />
             </div>
 
             <div className="bg-white rounded-2xl p-8 md:p-10 shadow-sm border border-slate-200 flex flex-col justify-center h-full">

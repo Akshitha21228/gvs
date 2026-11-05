@@ -243,7 +243,7 @@ function EngineeringAssurance() {
       <section 
         className="relative py-24 md:py-32 overflow-hidden bg-[#0E223B]"
         style={{
-          backgroundImage: "url('/assurance-hero.png')",
+          backgroundImage: "image-set(url('/optimized/assurance-hero-c37990b6af71-768.webp') 1x, url('/optimized/assurance-hero-c37990b6af71-1754.webp') 2x)",
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat"

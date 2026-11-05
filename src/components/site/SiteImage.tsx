@@ -1,9 +1,10 @@
+import { ResponsiveImage } from "@/components/site/ResponsiveImage";
 import { ImageOff } from "lucide-react";
 import type { SiteImage as SiteImageT } from "@/data/images";
 import { cn } from "@/lib/utils";
 
 type Props = {
-  image: SiteImageT;
+  image: Omit<SiteImageT, "illustrative"> & { illustrative?: boolean };
   className?: string;
   imgClassName?: string;
   priority?: boolean;
@@ -31,13 +32,13 @@ export function SiteImage({ image, className, imgClassName, priority, label = tr
   }
   return (
     <div className={cn("relative overflow-hidden", className)}>
-      <img
+      <ResponsiveImage
         src={image.src}
         alt={image.alt}
         loading={priority ? "eager" : "lazy"}
         decoding="async"
-        width={1280}
-        height={896}
+        priority={!!priority}
+        sizes={priority ? "100vw" : "(max-width: 767px) 100vw, (max-width: 1279px) 50vw, 420px"}
         className={cn("h-full w-full object-cover", imgClassName)}
       />
       {label && image.illustrative && (

@@ -337,7 +337,7 @@ function ProductsPage() {
       <section 
         className="relative py-20 md:py-28 overflow-hidden bg-[#0E223B]"
         style={{
-          backgroundImage: "url('/producthero.png')",
+          backgroundImage: "image-set(url('/optimized/producthero-2ea00471f53c-768.webp') 1x, url('/optimized/producthero-2ea00471f53c-1920.webp') 2x)",
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat"
